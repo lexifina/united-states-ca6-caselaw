@@ -1,0 +1,39 @@
+---
+court: "United States Court of Appeals for the Sixth Circuit"
+docket: "02-3232"
+decided: "2002-09-17"
+citations: ["49 F. App'x 1"]
+judges: ["Before NORRIS and CLAY, Circuit Judges; O’MEARA, District Judge."]
+parties: ["Robert W. JOHNSON, Plaintiff-Appellant, v. George VOINOVICH, et al., Defendants-Appellees."]
+source_url: "https://static.case.law/f-appx/49/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1036444
+cites_cases: ["120 F.3d 1023", "148 F.3d 596", "18 U.S.C. §§ 1961-1968", "203 F.3d 410", "214 F.3d 776", "263 F.3d 553", "354 U.S. 234", "42 U.S.C. § 1983", "454 U.S. 14", "461 U.S. 238", "464 U.S. 78", "512 U.S. 477", "697 N.E.2d 634", "83 Ohio St.3d 53", "929 F.2d 233"]
+---
+
+# Johnson v. Voinovich
+
+## Head matter
+
+Robert W. JOHNSON, Plaintiff-Appellant, v. George VOINOVICH, et al., Defendants-Appellees.
+No. 02-3232.
+United States Court of Appeals, Sixth Circuit.
+Sept. 17, 2002.
+Before NORRIS and CLAY, Circuit Judges; O’MEARA, District Judge.
+The Honorable John Corbett O’Meara, United States District Judge for the Eastern District of Michigan, sitting by designation.
+
+## Majority
+
+Robert W. Johnson appeals pro se from a district court judgment that dismissed his civil rights action, filed under 42 U.S.C. § 1983 and the Racketeer Influenced and Corrupt Organizations Act (“RICO”), 18 U.S.C. §§ 1961-1968. His appeal has been referred to a panel of this court pursuant to Rule 34(j)(l), Rules of the Sixth Circuit. Upon examination, the panel unanimously agrees that oral argument is not needed in this case. Fed. R.App. P. 34(a).
+In 1987, an Ohio jury convicted Johnson of possessing a dangerous ordinance, possessing several firearms while under a disability, and felonious assault, violations of Ohio Rev.Code §§ 2903.11, 2923.13 and 2923.17. He was sentenced to a term of eighteen to thirty-five years of imprisonment. It appears that a parole hearing was held in 2001, at which it was determined that Johnson would not be eligible for parole until on or after August 1, 2003.
+Johnson primarily alleged that Ohio’s parole laws had been amended and that the failure to apply those amendments retroactively resulted in: 1) a violation of his rights to equal protection and due process; 2) a bill of attainder which also violated the constitutional principles regarding the separation of powers; and 3) a violation of RICO. The district court dismissed the case on January 29, 2002, and Johnson now appeals. A de novo review of the record shows that dismissal was appropriate because he did not allege a cognizable claim. See 28 U.S.C. § 1915A(b)(l).
+Most of Johnson’s claims rely on his assertion that the Ohio legislature intended that a 1996 sentencing law be applied retroactively to prisoners who had been convicted before the law took effect. However, the state courts have held that this law does not apply retroactively to prisoners who were sentenced before July 1, 1996. State v. Rush, 83 Ohio St.3d 53, 697 N.E.2d 634, 638-39 (1998). The Ohio Supreme Court’s interpretation of this state law is binding on the federal courts. See Wainwright v. Goode, 464 U.S. 78, 84, 104 S.Ct. 378, 78 L.Ed.2d 187 (1983) (per curiam). Hence, Johnson’s claims lack merit insofar as they depend upon the retroactive application of the 1996 statute.
+Johnson alleged that the defendants’ policies violated his right to equal protection. The district court properly rejected this claim because he did not allege membership in a constitutionally protected class. See Herron v. Harrison, 203 F.3d 410, 417 (6th Cir.2000). Johnson has not raised a clear challenge to the court’s rationale for dismissing this claim. Thus, he has abandoned it for purposes of appellate review. See United States v. Mick, 263 F.3d 553, 567 (6th Cir.2001).
+Johnson also alleged that the defendants violated his right to due process. The district court properly dismissed this claim because state officials have complete discretion in deciding whether an Ohio inmate will be paroled. See Ohio Rev.Code Ann. § 2967.03. Thus, Johnson’s due process claim is unavailing because he does not have a constitutionally protected liberty interest in being released on parole. See Jago v. Van Curen, 454 U.S. 14, 21, 102 S.Ct. 31, 70 L.Ed.2d 13 (1981) (per curiam); Inmates of Orient Correctional Inst. v. Ohio State Adult Parole Auth., 929 F.2d 233, 235-37 (6th Cir.1991).
+Johnson now argues that the cases cited above are no longer controlling because a protected liberty interest was created by the following mandatory language in § 2967.03: “The adult parole authority shall exercise its functions and duties in relation to the release of prisoners who are serving a stated prison term in accordance with section 2967.28 of the Revised Code.” However, this language does not place any substantive limits on the parole authority’s discretion in evaluating a prisoner’s eligibility for parole. Therefore, it does not establish a protected liberty interest in being paroled. See Olim v. Wakinekona, 461 U.S. 238, 250-51, 103 S.Ct. 1741, 75 L.Ed.2d 813 (1983). Moreover, Johnson admits that the legislature intended that the cited language would only apply prospectively to offenders who were convicted after July 1, 1996. Thus, the cited language cannot create a liberty interest for Johnson, as he was convicted before that date.
+Johnson also argues that §§ 2967.03 and 2967.28 are “irreconcilable” with the broad discretion that is afforded state authorities in determining the parole eligibility of prisoners who were convicted before 1996. Thus, he argues that the parole board’s discretion has been “repealed by implication” under Ohio Rev.Code § 1.52(B). This argument fails because the disputed provisions are not irreconcilable, as they can be applied consistently in relation to the date of a prisoner’s conviction. See Rush, 697 N.E.2d at 638.
+Johnson next alleged that Ohio Rev.Code §§ 5149.02 and 5149.101 amount to an unconstitutional bill of attainder. The district court properly rejected this claim because the cited statutes were not created to inflict new punishment on Johnson or on any group to which he belongs. See Wilson v. Yaklich, 148 F.3d 596, 605 (6th Cir.1998).
+Johnson alleged that the parole authority violated the constitutional principles regarding the separation of powers because it legislates policies, executes those policies, and adjudicates whether its execution was correct. The district court properly found that the disputed state laws did not implicate federal separation of powers principles. See Sweezy v. New Hampshire, 354 U.S. 234, 254, 77 S.Ct. 1203, 1 L.Ed.2d 1311 (1957). Johnson now argues that his separation of powers claim is intertwined with his claims that the defendants violated his constitutional rights to due process and to be free of bills of attainder. However, those claims are also lacking in substantive merit.
+The district court concluded that Johnson had not alleged a valid RICO claim. Johnson now argues that the defendants are using their state positions to collect more than $400,000,000 a year in taxes. This conclusory argument is unavailing, as he has not demonstrated a pattern of racketeering activity that might be sufficient to support a RICO claim. See Begala v. PNC Bank, Ohio, Nat’l Assoc., 214 F.3d 776, 781-82 (6th Cir.2000).
+Finally, we note that Johnson’s claims are not cognizable under § 1983 insofar as a ruling on them would affect the validity of his confinement, unless and until he shows that the parole board’s decision has been declared invalid by an appropriate tribunal. See Heck v. Humphrey, 512 U.S. 477, 486-87, 114 S.Ct. 2364, 129 L.Ed.2d 383 (1994); Butterfield v. Bail, 120 F.3d 1023, 1024-25 (9th Cir.1997).
+Accordingly, the district court’s judgment is affirmed. Rule 34(j)(2)(C), Rules of the Sixth Circuit.

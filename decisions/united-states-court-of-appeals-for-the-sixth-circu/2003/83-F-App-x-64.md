@@ -1,0 +1,37 @@
+---
+court: "United States Court of Appeals for the Sixth Circuit"
+docket: "02-4146"
+decided: "2003-11-25"
+citations: ["83 F. App'x 64"]
+parties: ["Clark J. FISCHER, Petitioner-Appellant, v. John D. MORGAN, Warden, Respondent-Appellee."]
+source_url: "https://static.case.law/f-appx/83/cases/0064-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 577422
+cites_cases: ["12 F.3d 540", "161 F.3d 358", "179 F.3d 412", "1999 WL 1068064", "2001 WL 237523", "208 F.3d 545", "224 F.3d 542", "28 U.S.C. § 2253", "28 U.S.C. § 2254", "336 F.3d 478", "443 U.S. 307", "466 U.S. 668", "529 U.S. 362"]
+---
+
+# Fischer v. Morgan
+
+## Head matter
+
+Clark J. FISCHER, Petitioner-Appellant, v. John D. MORGAN, Warden, Respondent-Appellee.
+No. 02-4146.
+United States Court of Appeals, Sixth Circuit.
+Nov. 25, 2003.
+Clark J. Fischer, pro se, Grafton, OH, for Petitioner-Appellant.
+Bruce D. Horrigan, Cleveland, OH, for Respondent-Appellee.
+Before KENNEDY, MARTIN, and MOORE, Circuit Judges.
+
+## Majority
+
+ORDER
+Clark J. Fischer, an Ohio prisoner proceeding pro se, appeals the district court judgment dismissing his petition for a writ of habeas corpus filed under 28 U.S.C. § 2254. This case has been referred to a panel of the court pursuant to Rule 34(j)(l), Rules of the Sixth Circuit. Upon examination, this panel unanimously agrees that oral argument is not needed. Fed. R.App. P. 34(a).
+In 1998, a jury convicted Fischer of kidnapping with sexual motivation and two counts of gross sexual imposition. The court sentenced him to six years of imprisonment on the first charge and five years each on the remaining charges, to be served concurrently. The Ohio Court of Appeals affirmed the convictions and sentences on direct appeal. State v. Fischer, No. 75222,1999 WL 1068064 (Ohio Ct.App. Nov. 24, 1999). Fischer’s motion for delayed reopening of his direct appeal pursuant to Ohio Rule of Appellate Procedure 26(B) was also unsuccessful. State v. Fischer, No. 75222, 2001 WL 237523 (Ohio Ct.App. Mar. 1, 2001).
+Fischer filed his federal habeas petition in November 2001, raising ten claims. The district court denied Fischer’s petition but granted a certificate of appealability on two claims: (1) whether Fischer’s conviction for kidnapping was obtained in violation of his constitutional rights to a fair trial, an impartial jury and due process of law; and (2) whether Fischer was denied the effective assistance of counsel at trial and on appeal.
+On appeal, Fischer argues the merits of the two claims certified for appeal.
+Initially, we note that Fischer’s brief on appeal refers to affidavits and other evidence that were not admitted at trial or in the district court. These materials are not part of the district court record and cannot be considered by this court. See Fed. R.App. P. 10(a); United States v. Bonds, 12 F.3d 540, 552 (6th Cir.1993). Fischer also appears to expand the scope of his ineffective assistance of counsel claims beyond the claims certified by the district court. This court cannot consider claims which were not certified for appeal. See 28 U.S.C. § 2253(c); Seymour v. Walker, 224 F.3d 542, 561 (6th Cir.2000).
+This court reviews de novo a district court’s legal conclusions in habeas corpus actions and reviews its factual findings for clear error. Lucas v. O’Dea, 179 F.3d 412, 416 (6th Cir.1999). Under the Antiterrorism and Effective Death Penalty Act, a district court shall not grant a habeas petition with respect to any claim that was adjudicated on the merits in the state courts unless the adjudication resulted in a decision that: (1) was contrary to, or involved an unreasonable application of, clearly established federal law as determined by the Supreme Court; or (2) was based on an unreasonable determination of the facts in light of the evidence presented to the state courts. 28 U.S.C. § 2254(d). The habeas petitioner has the burden of rebutting, by clear and convincing evidence, the presumption that the state court’s factual findings were correct. 28 U.S.C. § 2254(e)(1).
+Upon review, we affirm the district court’s judgment for the reasons stated by the district court. Fischer claimed that his conviction for kidnapping violated his constitutional rights because the evidence did not support a finding that he restrained a girl named Kristen of her liberty in order to engage in sexual activity. See Ohio Rev.Code § 2905.01(A)(4). On federal habeas review, evidence is sufficient to support a conviction if, viewing the evidence in the light most favorable to the prosecution, any rational trier of fact could have found the essential elements of the crime beyond a reasonable doubt. Jackson v. Virginia, 443 U.S. 307, 324, 99 S.Ct. 2781, 61 L.Ed.2d 560 (1979); Zuern v. Tate, 336 F.3d 478, 482 (6th Cir.2003). The Ohio Court of Appeals found that Fischer used force to restrain Kristen by sitting on her legs, that he dragged her to another part of the room, and that he showed the purpose of engaging in sexual activity by placing his hands beneath her shirt. Viewing Kristen’s testimony in the light most favorable to the prosecution, any rational trier of fact could have found the essential elements of kidnapping for the purpose of engaging in sexual activity beyond a reasonable doubt. See Jackson, 443 U.S. at 324.
+The district court also properly denied Fischer’s ineffective assistance of counsel claims. Fischer alleged that his counsel was ineffective because he failed to request a jury instruction for the lesser included-offense of abduction, failed to object to the trial court’s inquiry into Fischer’s waiver of his right to testify, and failed to raise these issues on appeal. Ineffective assistance of counsel occurs when counsel’s performance is deficient and the deficient performance so prejudices the defense as to render the proceeding unfair and the result unreliable. Strickland v. Washington, 466 U.S. 668, 687, 104 S.Ct. 2052, 80 L.Ed.2d 674 (1984). The Ohio Court of Appeals reasoned that, because the evidence was sufficient to support Fischer’s conviction for kidnapping, he would not have been entitled to an instruction on the lesser-included offense of abduction. Accordingly, Fischer’s counsel was not ineffective for failing to request an instruction on abduction and was not ineffective for failing to raise the issue on appeal.
+The Ohio Court of Appeals also rejected Fischer’s claim concerning his choice not to testify. The appellate court held that the trial court did not have a duty, under either state or federal law, to examine a defendant who chooses not to testify. In the absence of such a duty, the court found no basis for concluding that Fischer’s counsel should have raised this issue or that Fischer was prejudiced by the failure to raise the issue. We agree with this analysis. See United States v. Webber, 208 F.3d 545, 551 (6th Cir.2000).
+In sum, the Ohio Court of Appeals’ decisions did not involve an unreasonable application of clearly established federal law as determined by the Supreme Court, see 28 U.S.C. § 2254(d); Williams v. Taylor, 529 U.S. 362, 412-13, 120 S.Ct. 1495, 146 L.Ed.2d 389 (2000), and Fischer failed to rebut the presumption that the state court’s factual findings were correct. See 28 U.S.C. § 2254(e)(1); Warren v. Smith, 161 F.3d 358, 360-61 (6th Cir.1998). For the foregoing reasons, we affirm the district court’s judgment. Rule 34(j)(2)(C), Rules of the Sixth Circuit.

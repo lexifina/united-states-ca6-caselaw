@@ -1,0 +1,32 @@
+---
+court: "United States Court of Appeals for the Sixth Circuit"
+docket: "99-6638"
+decided: "2001-03-07"
+citations: ["8 F. App'x 280"]
+parties: ["Eddie E. GLENN, Petitioner-Appellant, v. James A. BOWLEN, Warden, Respondent-Appellee."]
+source_url: "https://static.case.law/f-appx/8/cases/0280-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 147577
+cites_cases: ["111 F.3d 45", "120 S.Ct. 2211", "120 S.Ct. 2658", "147 L.Ed.2d 244", "147 L.Ed.2d 273", "179 F.3d 412", "199 F.3d 867", "200 F.3d 391", "204 F.3d 417", "225 F.3d 435", "28 U.S.C. § 2244", "28 U.S.C. § 2254", "487 U.S. 266", "521 U.S. 320", "530 U.S. 1210", "530 U.S. 1229", "531 U.S. 4"]
+---
+
+# Glenn v. Bowlen
+
+## Head matter
+
+Eddie E. GLENN, Petitioner-Appellant, v. James A. BOWLEN, Warden, Respondent-Appellee.
+No. 99-6638.
+United States Court of Appeals, Sixth Circuit.
+March 7, 2001.
+Before MARTIN, Chief Judge; MOORE, Circuit Judge; and TARNOW, District Judge.
+The Honorable Arthur J. Tarnow, United States District Judge for the Eastern District of Michigan, sitting by designation.
+
+## Majority
+
+Eddie E. Glenn, a Tennessee prisoner proceeding pro se, appeals a district court order denying his petition for a writ of habeas corpus. See 28 U.S.C. § 2254. This case has been referred to a panel of the court pursuant to Rule 34(j)(l), Rules of the Sixth Circuit. Upon examination, this panel unanimously agrees that oral argument is not needed. Fed. R.App. P. 34(a).
+In 1990, a jury convicted Glenn of first-degree murder. The court sentenced him to life imprisonment. The conviction and sentence were affirmed on direct appeal. Glenn filed two unsuccessful state post-conviction petitions, one in 1991 and one in 1994. The second petition raised claims that Glenn had presented in his first petition as well as new claims. The trial court denied the petition and the Tennessee Court of Criminal Appeals affirmed, concluding that the denial of Glenn’s first petition barred review of his second petition. On October 12, 1998, Glenn was denied permission to appeal further the denial of his second post-conviction petition. On October 11, 1999, Glenn signed a petition for a writ of habeas corpus for filing in the district court. The district court dismissed the petition as untimely, and initially denied Glenn a certificate of appealability. The court held that because Glenn’s second state post-conviction petition was procedurally barred it did not toll the statute of limitations under § 2244(d)(2). Glenn filed a motion for reconsideration. The district court denied the motion but granted Glenn a certificate of appealability on the following issue: whether petitioner’s second post-conviction petition was properly filed so as to toll the statute of limitations.
+In his timely appeal, Glenn argues that: (1) his second state post-conviction petition was properly filed for purposes of 28 U.S.C. § 2244(d)(2); and (2) the district court should have equitably tolled the statute of limitations. He has moved for the appointment of counsel.
+When reviewing a district court’s disposition of a petition for a writ of habeas corpus, this court reviews the district court’s findings of fact for clear error and its conclusions of law de novo. See Lucas v. O’Dea, 179 F.3d 412, 416 (6th Cir.1999). Upon review, we conclude that the district court improperly dismissed Glenn’s habeas petition as untimely under § 2244(d).
+The Supreme Court’s decision in Artuz v. Bennett, 531 U.S. 4, 121 S.Ct. 361, 148 L.Ed.2d 213 (2000), decided after the district court rendered its opinion, requires that the district court’s order be vacated and remanded. The Antiterrorism and Effective Death Penalty Act (“AEDPA”) applies to this case because Glenn filed his petition for a writ of habeas corpus after the AEDPA’s effective date of April 24, 1996. See Lindh v. Murphy, 521 U.S. 320, 326, 117 S.Ct. 2059, 138 L.Ed.2d 481 (1997); Barker v. Yukins, 199 F.3d 867, 871 (6th Cir.1999), cert. denied, 530 U.S. 1229, 120 S.Ct. 2658, 147 L.Ed.2d 273 (2000). The AEDPA contains a one year statute of limitations. For convictions imposed before the effective date of the act, the statute of limitations runs from April 24, 1996 to April 24, 1997. See 28 U.S.C. § 2244(d)(1); Austin v. Mitchell, 200 F.3d 391, 393 (6th Cir.1999), cert. denied, 530 U.S. 1210, 120 S.Ct. 2211, 147 L.Ed.2d 244 (2000). Courts exclude from computation any period of time during which a properly filed post-conviction relief petition is pending before the state courts. See § 2244(d)(2). In Artuz, the Court held that an application for state post-conviction relief containing claims that are procedurally barred is “properly filed” within the meaning of § 2244(d)(2) as long as its delivery and acceptance are in compliance with the applicable laws and rules governing filings. Artuz, 121 S.Ct. at 363-64.
+We conclude that, under the standard announced in Artuz, Glenn’s second state post-conviction petition was properly filed, tolled the statute of limitations, and rendered his habeas petition timely. See id. Glenn filed his second state petition in December 1994. The trial court accepted the petition but dismissed it on the merits, and the Tennessee Court of Criminal Appeals expressly ruled that Glenn’s claims were procedurally barred. Glenn’s state petition remained pending and tolled the federal habeas statute of limitations until permission to appeal was denied on October 12,1998. See, e.g., Hernandez v. Caldwell, 225 F.3d 435, 438 (4th Cir.2000); Swartz v. Meyers, 204 F.3d 417, 420 (3d Cir.2000). Glenn signed and delivered his federal habeas petition to prison officials for forwarding to the court on October 11, 1999, and it is considered filed as of that date. See Houston v. Lack, 487 U.S. 266, 270, 108 S.Ct. 2379, 101 L.Ed.2d 245 (1988); In re Sims, 111 F.3d 45, 47 (6th Cir.1997). Thus, Glenn’s petition for a writ of habeas corpus was filed within the one-year statute of limitations.
+Because Artuz compels the conclusion that Glenn’s second post-conviction petition was properly filed for purposes of 28 U.S.C. § 2244(d)(2), we do not reach Glenn’s equitable tolling argument. For the foregoing reasons, we deny the motion for the appointment of counsel, vacate the district court’s order and remand the case to the district court for consideration of the merits of Glenn’s petition. Rule 34(j)(2)(C), Rules of the Sixth Circuit.

@@ -1,0 +1,39 @@
+---
+court: "United States Court of Appeals for the Sixth Circuit"
+docket: "03-1533"
+decided: "2003-09-12"
+citations: ["76 F. App'x 49"]
+parties: ["Michael Earl CONELY, Plaintiff-Appellant, Conely Transport, Plaintiff, v. TOWNSHIP OF YORK; Patrick Wanty; John Hargrove; Michael J. Crossey; Sally B. Donahue; State of Michigan; John Engler, Governor of the State of Michigan; Jennifer Granholm; United States of America; U.S. Attorney for the Eastern District of Michigan; John Ashcroft, United States Attorney General, Defendants-Appellees."]
+source_url: "https://static.case.law/f-appx/76/cases/0049-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 207463
+cites_cases: ["207 F.3d 335", "215 F.3d 608", "250 F.3d 399", "28 U.S.C. § 1341", "31 U.S.C. § 3729", "42 U.S.C. § 1983", "450 U.S. 503", "76 F.3d 751"]
+---
+
+# Conely v. Township of York
+
+## Head matter
+
+Michael Earl CONELY, Plaintiff-Appellant, Conely Transport, Plaintiff, v. TOWNSHIP OF YORK; Patrick Wanty; John Hargrove; Michael J. Crossey; Sally B. Donahue; State of Michigan; John Engler, Governor of the State of Michigan; Jennifer Granholm; United States of America; U.S. Attorney for the Eastern District of Michigan; John Ashcroft, United States Attorney General, Defendants-Appellees.
+No. 03-1533.
+United States Court of Appeals, Sixth Circuit.
+Sept. 12, 2003.
+Michael Earl Conely, Fenton, MI, pro se.
+Roland Hwang, Asst. Attorney Gen., Office of the Attorney General, Kenneth U. Lucas, Gallagher & Duby, Lansing, MI, Frederick Lucas, Lucas & Worker, Onsted, MI, Mark A. Reading, Reading, Etter & Lillich, Ann Arbor, MI, Ellen Christensen, U.S. Attorney’s Office, Detroit, MI, for Defendants-Appellees.
+Before SUHRHEINRICH, COLE, and ROGERS, Circuit Judges.
+
+## Majority
+
+ORDER
+Michael Earl Conely, a pro se Michigan resident, appeals the district court’s order and judgment dismissing his civil action against the Township of York (“Township”), the State of Michigan (“State”), and a number of officials of those bodies, brought under 42 U.S.C. § 1983 and the False Claims Act, 31 U.S.C. § 3729. This case has been referred to a panel of the court pursuant to Rule 34(j)(l), Rules of the Sixth Circuit. Upon examination, this panel unanimously agrees that oral argument is not needed. Fed. R.App. P. 34(a).
+Seeking monetary, declaratory, and injunctive relief, Conely sued the Township along with its chairperson (Wanty), secretary (Hargrove), vice chairperson (Crossey), and treasurer (Donahue); and the State along with its governor (Engler) and attorney general (Granholm); the officials were also sued in their individual capacities. In addition, Conely named the United States, the Department of Justice (DOJ), the United States Attorney for the Eastern District of Michigan, and the United States Attorney General (Ashcroft) as additional plaintiffs and intervenors in his asserted qui tarn action under the False Claims Act.
+This case arises out of Conely’s dispute with the Township over personal property taxes for the years 1998 through 2002, which Conely neglected to pay. As a result, and after assessments, notices, and the opportunity to be heard, the Township seized two bulldozers owned by Conely, doing business as Conely Transport, and sold them at auction to pay the taxes due. Conely, however, claims that the State and Township had no authority to impose a personal property tax on him. He further asserts that the seizures violated his rights under the Due Process and Privileges and Immunities Clauses, the federal False Claims Act, the Treaty of Ghent of 1814, and the 1836 Treaty with the Ottawa and Chippewa Nations. Finally, he claims that Township Ordinance 44.00 et seq. (a zoning ordinance) is constitutionally vague and overbroad and violates his fundamental right to privacy and to control his private property.
+The State defendants filed a motion to dismiss under Fed.R.Civ.P. 12(b)(1), for lack of subject matter jurisdiction. The Township defendants filed a motion for summary judgment under Fed.R.Civ.P. 56. The Federal defendants filed a notice of election to decline intervention and a motion for the dismissal of the false claims action. Conely opposed these motions.
+In a report filed on March 18, 2003, the magistrate judge recommended that the motions to dismiss by the State and Township should be granted, that the motion for dismissal of the false claims action should be granted, and that the action should be dismissed with prejudice. The magistrate judge found that the federal court lacked jurisdiction to determine the constitutional and federal statutory claims raised in Conely’s complaint. The district court overruled Conely’s objections and dismissed the complaint in an order and separate judgment filed on March 31 and entered on April 1, 2003.
+On appeal, Conely continues to argue the merits of his claims and maintains that the district court erred in finding that it lacked jurisdiction to determine them.
+Upon review, we affirm the district court’s judgment for the reasons stated in the magistrate judge’s report. This court reviews de novo a district court’s judgment dismissing a complaint for lack of subject matter jurisdiction under Rule 12(b)(1). Hedgepeth v. Tennessee, 215 F.3d 608, 611 (6th Cir.2000). “When the defendant challenges subject matter jurisdiction through a motion to dismiss, the plaintiff bears the burden of establishing jurisdiction.” Id.
+A district court’s grant of summary judgment under Rule 56 is also reviewed de novo. Thompson v. Ashe, 250 F.3d 399, 405 (6th Cir.2001). Summary judgment is proper only where there are no genuine issues of material fact and the moving party is entitled to judgment as a matter of law. Id. “[T]he party opposing the motion may not rely solely on the pleadings and must adduce more than a mere scintilla of evidence; if the nonmoving party fails to make a sufficient showing on an essential element of the case with respect to which the nonmovant has the burden, the moving party is entitled to summary judgment as a matter of law.” Id.
+Conely has not met his burden to show that this court lacks jurisdiction over his complaint. Pursuant to the Tax Injunction Act, 28 U.S.C. § 1341, a federal court “shall not enjoin, suspend or restrain the assessment, levy or collection of any tax under State law where a plain, speedy and efficient remedy may be had in the courts of such state.” The Act also prohibits courts from issuing declaratory judgments holding state tax laws unconstitutional. See Thiokol Corp. v. Roberts, 76 F.3d 751, 761 (6th Cir.1996). It is clear that this case consists of a dispute over the nonpayment of personal property taxes. Michigan provides a “plain, speedy and efficient remedy” for tax disputes; the fact that Conely did not avail himself of his statutory remedies does not render them inadequate for purposes of the Tax Injunction Act. Thus, the federal courts are without jurisdiction to grant the relief requested by Conely. See Rosewell v. LaSalle Nat’l Bank, 450 U.S. 503, 522, 101 S.Ct. 1221, 67 L.Ed.2d 464 (1981).
+Nor did the district court err in dismissing the federal “intervenors” and the False Claims Act (FCA) claim. Conely’s complaint fails to allege any fact giving rise to a claim under the Act, which requires a showing of false or fraudulent action against the federal government. See 31 U.S.C. § 3729. “The FCA is not designed to serve the parochial interests of relators, but to vindicate civic interests in avoiding fraud against public monies.” United States v. Health Possibilities, P.S.C., 207 F.3d 335, 340 (6th Cir.2000).
+Finally, we note that neither the zoning code ordinance nor the treaties cited by Conely have anything whatsoever to do with Conely’s complaint.
+Accordingly, the district court’s judgment, entered on April 1, 2003, is affirmed. Rule 34(j)(2)(C), Rules of the Sixth Circuit.

@@ -1,0 +1,38 @@
+---
+court: "United States Court of Appeals for the Sixth Circuit"
+docket: "03-5664"
+decided: "2003-12-08"
+citations: ["86 F. App'x 45"]
+parties: ["Alvin SEAGROVES, Plaintiff-Appellant, v. TENNESSEE BOARD OF PROBATION & PAROLE; Roy Maples; (F/N/U) Dalton; John Doe, Board Member of the Tennessee Board of Probation & Parole; Charles Traughber, Defendants-Appellees."]
+source_url: "https://static.case.law/f-appx/86/cases/0045-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 250258
+cites_cases: ["2000 WL 1562844", "28 U.S.C. § 1915", "28 U.S.C. § 2254", "355 U.S. 41", "39 Fed.Appx. 271", "411 U.S. 475", "42 F.3d 382", "42 U.S.C. § 1983", "442 U.S. 1", "514 U.S. 499", "810 F.2d 589"]
+---
+
+# Seagroves v. Tennessee Board of Probation & Parole
+
+## Head matter
+
+Alvin SEAGROVES, Plaintiff-Appellant, v. TENNESSEE BOARD OF PROBATION & PAROLE; Roy Maples; (F/N/U) Dalton; John Doe, Board Member of the Tennessee Board of Probation & Parole; Charles Traughber, Defendants-Appellees.
+No. 03-5664.
+United States Court of Appeals, Sixth Circuit.
+Dec. 8, 2003.
+Alvin Seagroves, pro se, Pikeville, TN, for Plaintiff-Appellant.
+John B. Scarbrough, Asst. Atty. General, Office of the Attorney General, Nashville, TN, for Defendants-Appellees.
+Before: COLE and CLAY, Circuit Judges; and QUIST, District Judge.
+The Honorable Gordon J. Quist, United States District Judge for the Western District of Michigan, sitting by designation.
+
+## Majority
+
+ORDER
+Alvin Seagroves, a pro se Tennessee prisoner, appeals a district court order dismissing his civil rights complaint filed pursuant to 42 U.S.C. § 1983. This case has been referred to a panel of the court pursuant to Rule 340(1), Rules of the Sixth Circuit. Upon examination, this panel unanimously agrees that oral argument is not needed. Fed. R.App. P. 34(a).
+Seeking declaratory and injunctive relief and costs, Seagroves sued two named and two unnamed members of the Tennessee Board of Probation & Parole, the chairman of that Board, and the Board itself for allegedly violating his constitutional rights in connection with his February 13, 2001, parole hearing. Seagroves is serving a life sentence for crimes committed in Tennessee in August 1973. He stated that defendants used the current parole statutes, rather than those in effect at the time of his offenses, to his detriment when conducting his 2001 hearing. He further complained that the defendant John Doe Board Members improperly voted to refuse him parole without attending the hearing and based upon misinformation. His appeal to the Board was denied on July 5, 2001. In his § 1983 complaint, Seagroves alleged in overlapping claims that: 1) the actions of the Board in using the current parole statutes instead of those in effect in 1973 violated the Ex Post Facto Clause; and 2) the actions of the Board in having members vote on his parole without adequately reviewing the case or attending the hearing, and in basing his parole decision upon a dismissed charge and misinformation, violated the Due Process Clause.
+The district court summarily dismissed the complaint without prejudice in a memorandum and order entered on September 12, 2001. Citing Preiser v. Rodriguez, 411 U.S. 475, 93 S.Ct. 1827, 36 L.Ed.2d 439 (1973), the court concluded that Seagroves’s challenge to his parole proceedings must be pursued in a habeas corpus action under 28 U.S.C. § 2254 after exhausting state court remedies. Because the complaint had no arguable basis in law, the district court found it to be legally frivolous within the meaning of 28 U.S.C. § 1915(e)(2), and dismissed it without prejudice to Seagroves’s right to bring his claims in a § 2254 action. The district court denied Seagroves’s motion for reconsideration in an order entered on October 1, 2001. Seagroves’s appealed the district court’s decision.
+On appeal, this court vacated the district court’s frivolity decision and remanded the case for consideration on the merits. Specifically, this court stated that, “Seagroves committed his offenses in 1973, at a time when Tennessee may have provided a liberty interest in parole. Thus, the question of whether Seagroves has stated a due process claim may also depend upon the outcome of an ex post facto analysis and should be analyzed by the district court in the first instance.” See Seagroves v. Tenn. Bd. of Probation & Parole, 39 Fed.Appx. 271 (6th Cir.2002) (unpublished).
+In an order entered on August 2, 2002, the district court directed process to issue and referred the case to a magistrate judge. Defendants filed a motion to dismiss on August 26, 2002, and Seagroves responded. The magistrate judge recommended that defendants’ motion to dismiss be granted. The district court adopted the report and recommendation over Seagroves’s objections. This appeal followed.
+A district court may not dismiss a complaint for failure to state a claim “unless it appears beyond doubt that the plaintiff can prove no set of facts in support of his claim which would entitle him to relief.” Conley v. Gibson, 355 U.S. 41, 45-46, 78 S.Ct. 99, 2 L.Ed.2d 80 (1957). An order dismissing a complaint under Fed.R.Civ.P. 12(b)(6) is subject to de novo review in this court. Hiser v. City of Bowling Green, 42 F.3d 382, 383 (6th Cir.1994).
+Upon review, we conclude that the dismissal of Seagroves’s case was proper for the reasons stated by the district court. First, the statutory changes to Tennessee’s parole scheme do not alter the definition of Seagroves’s crime, nor do they increase the sentence imposed for his crimes. Moreover, given the seriousness of Seagroves’s crimes and the fact that Seagroves committed the triple murders and the assault with intent to commit murder less than one iveek after being paroled for his previous crimes, the likelihood of Seagroves’s release under either statute is so remote as to create only “the most speculative and attenuated possibility of increasing” Seagroves’s punishment. The statutory changes, therefore, do not create a “significant risk of increasing the measure of punishment attached to the covered crimes” so as to violate the Ex Post Facto Clause. See Cal. Dep’t of Corr. v. Morales, 514 U.S. 499, 509, 115 S.Ct. 1597, 131 L.Ed.2d 588 (1995).
+Second, Seagroves does not have an inherent constitutionally created right to parole. See Greenholtz v. Inmates of Neb. Penal & Corr. Complex, 442 U.S. 1, 7, 99 S.Ct. 2100, 60 L.Edüd 668 (1979). Moreover, the Tennessee parole scheme does not create an expectation that parole will be granted which is sufficient to trigger a constitutionally protected liberty interest. See TenmCode Ann. §§ 40-28-117(a) and 40-35-503(b) (1999); Wright v. Trammell, 810 F.2d 589, 590-91 (6th Cir. 1987); Hickman v. Traughber, No. 99-6639, 2000 WL 1562844, at *1 (6th Cir. Oct.12, 2000) (unpublished).
+Finally, irrespective of whether Seagroves possessed a liberty interest in parole, Seagroves was afforded sufficient due process. Due process in parole proceedings is satisfied as long as the procedure used affords the inmate an opportunity to be heard, and, if parole is denied, the Parole Board informs the inmate of the basis upon which it denied parole. See Greenholtz, 442 U.S. at 16. In this case, Seagroves received a parole hearing. His parole hearing was conducted by defendants Dalton and Maples on February 13, 2001. Moreover, Seagroves was notified, in writing, that he had been denied parole pursuant to TenmCode Ann. § 40-35-503(b)(2). Thus, his due process rights were not violated.
+Accordingly, the district court’s order is affirmed. Rule 34(j)(2)(C), Rules of the Sixth Circuit.

@@ -1,0 +1,35 @@
+---
+court: "United States Court of Appeals for the Sixth Circuit"
+docket: "00-4181"
+decided: "2001-05-09"
+citations: ["9 F. App'x 373"]
+judges: ["Before SILER and GILMAN, Circuit Judges; DUGGAN, District Judge."]
+parties: ["UNITED STATES of America, Plaintiff-Appellee, v. Fred Vern JOHNSON, Defendant-Appellant."]
+source_url: "https://static.case.law/f-appx/9/cases/0373-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 143844
+cites_cases: ["119 S.Ct. 1085", "143 L.Ed.2d 86", "145 F.3d 771", "207 F.3d 344", "25 L.Ed.2d 747", "386 U.S. 738", "39 F.3d 643", "400 U.S. 25", "49 F.3d 253", "525 U.S. 1166", "53 F.3d 144", "562 F.2d 399", "8 U.S.C. § 1326", "831 F.2d 664", "887 F.2d 697", "897 U.S. 742", "90 S.Ct. 1468", "99 F.3d 1302"]
+---
+
+# United States v. Johnson
+
+## Head matter
+
+UNITED STATES of America, Plaintiff-Appellee, v. Fred Vern JOHNSON, Defendant-Appellant.
+No. 00-4181.
+United States Court of Appeals, Sixth Circuit.
+May 9, 2001.
+Before SILER and GILMAN, Circuit Judges; DUGGAN, District Judge.
+The Honorable Patrick J. Duggan, United States District Judge for the Eastern District of Michigan, sitting by designation.
+
+## Majority
+
+Fred Vern Johnson, a citizen of Jamaica, appeals a district court’s judgment of conviction and sentence. The case has been referred to this panel pursuant to Rule 34(j)(l), Rules of the Sixth Circuit. We unanimously agree that oral argument is not needed. Fed. RApp. P. 34(a).
+Johnson pleaded guilty to a charge of illegal entry by an aggravated felon, a violation of 8 U.S.C. § 1326(a), (b)(2). He was sentenced to seventy-three months of incarceration to be followed by three years of supervised release.
+In this timely appeal, Johnson’s appointed counsel has filed a motion to withdraw and a brief pursuant to Anders v. California, 386 U.S. 738, 87 S.Ct. 1396, 18 L.Ed.2d 493 (1967). Johnson was served with the brief and the motion. See Rule 101(f), Sixth Circuit Supplemental Procedural Rules. Johnson has responded to counsel’s motion to withdraw by filing a pro se brief.
+The motion to withdraw will be granted, as it reflects that counsel has reviewed the entire record and proceedings and has submitted the following issues for review: (1) whether Johnson’s guilty plea was entered in conformity with the Federal Rules of Criminal Procedure, and (2) whether the district court abused its discretion when it denied three asserted arguments for downward departures. Counsel asserts these issues, but recognizes that each lacks merit. In his pro se brief, Johnson raises two issues. He contends: (1) that the district court violated the Ex Post Facto Clause by enhancing his sentence under § 2L1.2 because of a 1992 conviction, and (2) that counsel was ineffective in failing to raise this challenge at sentencing. As discussed below, these issues are also without merit.
+Johnson’s pro se issues deserve only brief initial treatment. His ex post facto contention is squarely foreclosed by precedent. See United States v. Ykema, 887 F.2d 697, 700 (6th Cir.1989); United States v. Ilacqua, 562 F.2d 399, 404 (6th Cir.1977). The use of his 1992 conviction to enhance the instant sentence does not implicate the Ex Post Facto Clause. Because the substance of this issue lacks merit, his claim that counsel was ineffective in failing to raise it also lacks merit. Although this court generally does not consider a claim of ineffective assistance of counsel on direct appeal, we will nonetheless review this claim because the record in this case is adequate to assess it. United States v. Kincaide, 145 F.3d 771, 785 (6th Cir.1998), cert. denied, 525 U.S. 1166, 119 S.Ct. 1085, 143 L.Ed.2d 86 (1999). To prevail on an ineffective assistance of counsel claim, one must show that counsel’s performance was deficient and that the deficient performance prejudiced the defense. See United States v. Fry, 831 F.2d 664, 669 (6th Cir.1987). Johnson’s attorney did not render deficient performance by failing to object to the § 2L1.2 enhancement on ex post facto grounds because counsel is not required to raise futile objections. McQueen v. Scroggy, 99 F.3d 1302, 1328 (6th Cir.1996). Johnson can make no showing of prejudice in this circumstance.
+The record reflects that the district court properly accepted Johnson’s valid guilty plea. A plea of guilty is valid if entered knowingly, voluntarily, and intelligently; its validity is determined under the totality of the circumstances. North Carolina v. Alford, 400 U.S. 25, 31, 91 S.Ct. 160, 27 L.Ed.2d 162 (1970); Brady v. United States, 897 U.S. 742, 749, 90 S.Ct. 1468, 25 L.Ed.2d 747 (1970). The Constitution requires that such circumstances reflect that the defendant be informed of all the direct consequences of his plea. Brady, 397 U.S. at 755, 90 S.Ct. 1463. The court explained to Johnson the rights he was waiving, the statutory maximum sentences involved, and the application of the Sentencing Guidelines. Fed. R.Crim.P. 11(c)(1), (c)(3). Johnson acknowledged the facts underlying his offense and his guilt of the crime charged.
+The district court also properly sentenced Johnson. Johnson did not object to the findings in the presentence report. Instead, he raised four factors he believed entitled him to a downward departure from the applicable guidelines sentence: (1) he returned to the United States from Jamaica under duress, (2) he agreed to waive his right to challenge his later deportation, (3) his aggravated felonies were less serious than the crimes envisioned by the guidelines, and (4) he lost the opportunity to serve state and federal sentences concurrently because of a delay in the federal indictment. The sentencing judge determined that Johnson returned to the United States from Jamaica under duress and granted Johnson a one-level downward adjustment in his offense level for this reason; the court denied any further departure.
+A district court’s discretionary decision not to depart downward from the guidelines range ordinarily is not appeal-able. United States v. Byrd, 53 F.3d 144, 145 (6th Cir.1995). An appeal may be taken, however, when the district court believed that it lacked any authority to depart downward as a matter of law. United States v. Landers, 39 F.3d 643, 649 (6th Cir.1994). The district court’s determination that it lacked authority to depart downward is a matter of guidelines interpretation that we review de novo. United States v. Thomas, 49 F.3d 253, 260 (6th Cir.1995). A review of the sentencing transcript reveals that the district court did not mistakenly believe that it lacked the authority to grant the requested departures: it merely found that any further departure was not appropriate in the light of the particular circumstances of the case. This issue is not appealable. United States v. Buchanan, 207 F.3d 344, 355 (6th Cir.2000).
+Accordingly, we grant counsel’s motion to withdraw and affirm the district court’s judgment of conviction and sentence. Rule 34(j)(2)(C), Rules of the Sixth Circuit.

@@ -1,0 +1,32 @@
+---
+court: "United States Court of Appeals for the Sixth Circuit"
+docket: "19556"
+decided: "1970-01-22"
+citations: ["23 Ohio Misc. 169"]
+reporter: "ohio-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Edwards, Celebrezzb and Combs, Circuit Judges."]
+parties: ["Brotherhood of Locomotive Firemen & Enginemen, Appellee, v. Detroit & Toledo Shore Line Rd. Co., Appellant."]
+source_url: "https://static.case.law/ohio-misc/23/cases/0169-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1439654
+cites_cases: ["294 F. Supp. 727", "325 U. S. 711", "38 U. S. L. W. 4033", "77 Stat. 132"]
+---
+
+# Brotherhood of Locomotive Firemen & Enginemen v. Detroit & Toledo Shore Line Rd.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+In 1943 the parties to this proceeding signed an agreement known as the Eastern Diesel Agreement of 1943, under which Shore Line undertook to employ firemen on practically all diesel engine runs. The agreement had no termination date. Neither party has ever explicitly served notice of the revocation of this agreement, and up to the point of the instant litigation, firemen had in fact been employed on diesel engine runs, except to the degree they were eliminated by the national arbitration award, dated November 26, 1963, handed down by Arbitration Board No. 282 established in 1963 pursuant to Public Law 88-108, 88th Cong., 77 Stat. 132 (1963). Under the terms of this award, Shore Line firemen were eliminated on Shore Line diesel engines inside the state of Michigan, but were kept on such engines inside the state of Ohio because of the Ohio “full crew” law. This state law requires the use of firemen on all freight runs on “main tracks” and switch engines in Ohio. Sections 4999.07 and 4999.08 (1954), Eevised Code.
+In 1967 and 1968 Shore Line made certain physical revisions of its Lang yard, the southern terminus of its line in Ohio straddling the Michigan state line. Tn so doing Shore Line created a hump yard for automatic classification of freight cars, added some switch tracks, and redefined the former “main” tracks in Ohio so that the previous “main” tracks now became “yard” tracks. Shore Line then served notice that it no longer was going to employ firemen on the previous “main” tracks within the state of Ohio.
+The Brotherhood thereupon promptly filed this petition for injunctive relief alleging a violation of the 1943 Agreement and a failure on the part of Shore Line to follow the notice and mediation procedures established by federal law. 45 U. S. Code, Sections 152, 156 (1964).
+The United States District Judge for the Northern District of Ohio, Western Division, granted the relief sought by petitioner. His opinion stated in part:
+“Briefly stated, the contentions of the defendant are that when a new contract was negotiated between the parties in 1953, it completely superseded all former contracts, including the Eastern Diesel Agreement of 1943, which required the defendant to maintain firemen in diesels; that arbitration Award 282 enabled the defendant to abolish these positions, with limited exceptions, and it did do so, with respect to the runs in question, but the Ohio full crew law prevented this abolition from becoming effective; that the reconstruction of the switch yards made the Ohio full crew law no longer applicable to these runs, and defendant was thus at liberty to abolish them; and that the dispute involved here involves interpretation of the terms of the contract between the parties, and hence is a ‘minor dispute’ over which this court has no jurisdiction.
+“Considering these matters in the order above presented, it is the court’s conclusion that the Eastern Diesel Agreement of 1943 was not superseded by the new general contract of 1953, but continues to be, and still is, in force between the parties. The fact that it was specifically included in the 1943 agreement, but not in the 1953 agreement, is of little probative value on this point, nor is the list of agreements remaining in effect after the 1953 agreement which is attached as a last page to D. ex. 14, particularly since this document does not purport to be anything more than a list, is undated, and the parties signing do not set forth their official positions.
+“The Eastern Diesel Agreement is by its terms a self-perpetuating and continuing agreement. It deals with one of the most serious controversies in the whole realm of labor law, in which the unprecedented Congressional action was taken which led to Award 282. To suggest that such an agreement could be terminated by mere silence or failure to refer to it is totally illogical. Such an argument has as an inescapable tenet that the Washington Job Protection Agreement of 1936 was also terminated in 1953 by reason of nonmention in that later agreement.
+“Of importance, too, on this issue is the fact that the defendant continuously sought, years after the execution of the 1953 agreement, to get rid of its obligations under the Eastern Diesel Agreement. If it were no longer in effect between the parties, why take action to eliminate it? That the parties continued to treat it as being in force after the 1953 agreement is shown, for example, by the episode of the hiring and discharge of fireman Abrams. (It. 181, 220-221.) This court finds that the 1943 Diesel Agreement, as well as the 1936 Washington Job Protection Agreement, were not terminated in 1953, but are instead currently in full force and effect.” Bd. of Locomotive Firemen and Enginemen v. Detroit & Toledo Shore Line R. R. (N. D. Ohio 1968), [59 LC Paragraph 13,244], 294 F. Supp. 727, 729-30.
+We have read the contract provisions relied upon by appellant and find ourselves in general accord with the District Judge’s interpretation set forth above — particularly his holding that “mere silence” does not accomplish revocation.
+We have no doubt that this controversy is a “major dispute,” Elgin, Joiliet & Eastern Ry. v. Burley (1945), [9 LC Paragraph 51,212] 325 U. S. 711, and that the District Judge had authority to enjoin respondent’s unilateral self-help measures until the “status quo” provisions of the Railway Labor Act cited above had been exhausted. See Detroit & Toledo Shore Line R. R. v. United Transportation Union (1969), [61 LC Paragraph 10,507] — U. S. —. 38 U. S. L. W. 4033 (Dec. 9, 1969).
+Judgment affirmed.

@@ -1,0 +1,48 @@
+---
+court: "United States Court of Appeals for the Sixth Circuit"
+docket: "99-1335"
+decided: "2001-04-30"
+citations: ["8 F. App'x 461"]
+parties: ["Bruce Burdett THOMAS, Petitioner-Appellant, v. Robert LECUREUX, Warden, Kinross Correctional Facility, Respondent-Appellee."]
+source_url: "https://static.case.law/f-appx/8/cases/0461-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 147699
+cites_cases: ["163 Mich.App. 50", "207 Mich.App. 47", "227 N.W.2d 303", "24 F.3d 823", "414 N.W.2d 147", "466 U.S. 668", "523 N.W.2d 830", "58 Mich.App. 243", "62 F.3d 818", "970 F.2d 1575"]
+---
+
+# Thomas v. Lecureux
+
+## Head matter
+
+Bruce Burdett THOMAS, Petitioner-Appellant, v. Robert LECUREUX, Warden, Kinross Correctional Facility, Respondent-Appellee.
+No. 99-1335.
+United States Court of Appeals, Sixth Circuit.
+April 30, 2001.
+Before BOGGS and MOORE, Circuit Judges; BELL, District Judge.
+The Honorable Robert Holmes Bell, United States District Judge for the Western District of Michigan, sitting by designation.
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+Petitioner appeals the lower court’s denial of his petition for a writ of habeas corpus for violation of his right to effective counsel and right to a fair trial. Following a jury trial petitioner was convicted on four counts of second-degree murder and one count of assault with intent to do great bodily harm for driving into a crowd in Detroit killing four persons and seriously injuring one. Petitioner appeals the lower court’s denial of his petition for a writ of habeas corpus for violation of his right to effective counsel and right to a fair trial. We conclude that both of petitioner’s contentions fail, and affirm the decision of the lower court denying the writ of habeas corpus.
+Around 1:00 a.m. on June 15, 1990, approximately forty persons were in the vicinity of Wisner and Van Dyke Avenue in Detroit celebrating the news that the Detroit Pistons had won the NBA championship. Several witnesses reported hearing a loud “boom” and then observing a car driven by petitioner speeding from the scene. No skid marks were found, which would have indicated an attempt to stop the vehicle. Petitioner did not testify at trial. Petitioner maintains he was driving along Van Dyke when an object hit the side of his car, causing him to black out. He awoke to discover a broken windshield and that he was surrounded by an angry crowd, and so sped off. Subsequent to his conviction it was demonstrated during a hearing in state court on ineffective assistance of counsel that petitioner suffers from syncope, a heart condition that can lead to loss of consciousness. Trial counsel was aware of petitioner’s medical condition previous to trial.
+Petitioner asserts, first, that he was denied his right to effective assistance of counsel because counsel did not use petitioner’s medical condition as an affirmative defense. To establish ineffective assistance of counsel, petitioner must show that counsel’s performance was deficient and that the deficient performance prejudiced the defense so as to render the trial unfair and the result unreliable. See Strickland v. Washington, 466 U.S. 668, 687, 104 S.Ct. 2052, 80 L.Ed.2d 674 (1984). In other words, petitioner must show that counsel’s performance fell below the objective standard of reasonableness and so prejudiced defendant that he was denied a fair trial; and second, that a reasonable probability exists that, but for counsel’s conduct, the result would have been different. Petitioner must overcome the presumption that an attorney is competent; the presumption that counsel’s behavior lies within a broad range of reasonable professional assistance; and the presumption that under the circumstances, the challenged action might be sound trial strategy.
+The district court’s findings of fact in regard to ineffective assistance of counsel are reviewed for clear error. See Strickland, 466 U.S. at 698, 104 S.Ct. 2052. The performance and prejudice components of the Strickland test, however, are considered mixed questions of law and fact, and are thus subject to de novo review. See Sims v. Livesay, 970 F.2d 1575, 1579 (6th Cir.1992) (citing Strickland, 466 U.S. at 698, 104 S.Ct. 2052).
+It is evident from the record that trial counsel weighed two possible trial strategies. The first was to admit petitioner’s medical history, which a jury could have found to be a willful and wanton act of negligence, and could have led to a conviction of second-degree murder. The second was to attack the sufficiency of the evidence at trial. Counsel pursued the second trial strategy, and petitioner was convicted of second-degree murder.
+Petitioner now asserts that counsel should have pursued the former strategy of presenting evidence of petitioner’s medical condition. The trial court and the district court both concluded that introducing evidence of regular blackouts could establish wanton disregard that one’s actions could lead to death or great bodily harm, the third prong of second-degree murder. Counsel’s decision not to introduce this evidence seems to have been reasonable trial strategy. Furthermore, presentation of the evidence would have been unlikely to change the outcome of the trial because even if believed by the jury it still could have led to a conviction of second-degree murder.
+Petitioner contends that conviction of “ordinary negligence” causing death through a vehicle would have resulted in a maximum sentence of two years. Petitioner’s Brief, 23. The argument is also made in the dissent by Judge Jansen in the Michigan Court of Appeals appeal of the conviction. This argument is misleading because it only tells half the story. It was indeed possible that had counsel presented evidence of petitioner’s medical condition, the jury would have found petitioner guilty of merely ordinary negligence. But under that trial strategy petitioner would still have been subject to a conviction of second-degree murder, because Michigan requires only acting in wanton or willful disregard of a plain and strong likelihood that death may result from that action to meet the standard of second-degree murder.
+Counsel made the apparently reasonable inference that a jury may have concluded that petitioner’s actions evidenced a wanton and willful disregard for the safety of others. A jury could have concluded that petitioner knew he was subject to blacking out, that petitioner knew or should have known that this problem would be compounded by the consumption of ten or twelve beers, yet disregarded these facts in choosing to get behind the wheel of a car. Trial counsel rightly discerned that introducing petitioner’s medical history would have been likely to have resulted in a conviction of second-degree murder rather than ordinary negligence.
+Counsel’s trial strategy, while it may not have been successful to the degree that counsel had hoped, nevertheless did not fall below the objective standard of reasonableness. Disagreement over trial strategy is not a basis for ineffective assistance of counsel. Strickland, 466 U.S. at 689,104 S.Ct. 2052.
+Petitioner also asserts ineffective assistance of counsel because counsel did not further investigate the medical history of petitioner. This argument fails because once counsel made a reasonable strategic decision not to introduce the medical evidence, there was no reason to further investigate the medical history. We conclude that trial counsel considered petitioner’s medical condition when crafting a trial strategy and therefore petitioner did not suffer ineffective assistance of counsel.
+Second, petitioner claims that his right to a fair trial was violated because the trial court failed to issue an instruction on the defense of accident sua sponte. Counsel for petitioner asserted in opening and closing statements that the deaths and injuries, were accidental. Counsel, however, did not draft or request an instruction on the defense of accident. Petitioner avers that his right to a fair trial was violated by failure of the Court to sua sponte issue an instruction on accident.
+The defense of accident is recognized in Michigan. A court may not exclude a material defense if there is evidence to support the defense. In this case, however, no evidence at all was presented to support a jury instruction for the affirmative defense of accident. Moreover, Michigan case law clearly states that there is no error in a court’s failure to instruct the jury on an affirmative defense when counsel did not request such an instruction. See People v. Amos, 163 Mich.App. 50, 55-56, 414 N.W.2d 147 (1987). Therefore, the trial court was not in error when it did not provide a jury instruction on the defense of accident to the jury. We affirm the lower court’s denial of habeas regarding petitioner’s right to a fair trial.
+Accordingly, we affirm the ruling by the lower court that petitioner’s Sixth Amendment right against ineffective assistance of counsel and his right to a fair trial were not violated. AFFIRMED.
+. MCL 750.318; MSA 28.549.
+. MCL 750.84; MSA 28.279. Petitioner appeals the lower court's denial of his petition for a writ of habeas corpus for violation of his right to effective counsel and right to a fair trial.
+. See U.S. v. Pierce, 62 F.3d 818, 833 (6th Cir. 1995).
+. See O’Hara v. Wigginton, 24 F.3d 823 (6th Cir. 1994)
+. See Strickland, 466 U.S. at 689, 104 S.Ct. 2052.
+. People v. Thomas, No. 138639, at *1 (Mich. Ct.App. August 25, 1995).
+. People v. Thomas, No. 138639, at*9 (Mich. Ct.App. August 25, 1995) (Jansen, J., dissenting).
+. See People v. Stinson, 58 Mich.App. 243, 253, 227 N.W.2d 303 (1975).
+. People v. Daniel, 207 Mich.App. 47, 53, 523 N.W.2d 830 (1994).

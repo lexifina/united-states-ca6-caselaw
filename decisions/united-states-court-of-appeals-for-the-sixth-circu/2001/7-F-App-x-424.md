@@ -1,0 +1,48 @@
+---
+court: "United States Court of Appeals for the Sixth Circuit"
+docket: "99-5129"
+decided: "2001-03-22"
+citations: ["7 F. App'x 424"]
+judges: ["Before KRUPANSKY, BATCHELDER, and GILMAN, Circuit Judges."]
+parties: ["UNITED STATES of America, Plaintiff-Appellee, v. Detris Larae MANN Defendant-Appellant."]
+source_url: "https://static.case.law/f-appx/7/cases/0424-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 152004
+cites_cases: ["102 F.3d 804", "116 F.3d 1129", "134 F.3d 340", "151 F.3d 551", "18 U.S.C. § 2", "18 U.S.C. § 2113", "18 U.S.C. § 3013", "18 U.S.C. § 3572", "18 U.S.C. § 371", "18 U.S.C. § 924", "18 U.S.C.A. § 2", "18 U.S.C.A. § 3013", "18 U.S.C.A. § 924", "488 U.S. 563", "516 U.S. 137", "520 U.S. 461", "60 F.3d 1199", "785 F.2d 378"]
+---
+
+# United States v. Mann
+
+## Head matter
+
+UNITED STATES of America, Plaintiff-Appellee, v. Detris Larae MANN Defendant-Appellant.
+No. 99-5129.
+United States Court of Appeals, Sixth Circuit.
+March 22, 2001.
+Before KRUPANSKY, BATCHELDER, and GILMAN, Circuit Judges.
+
+## Majority (KRUPANSKY, Circuit Judge.)
+
+KRUPANSKY, Circuit Judge.
+On June 19, 1998, Detris Larae Mann and three co-conspirators robbed a bank in Elbridge, Tennessee. Prior to the armed robbery itself, Mann assisted in the acquiring of the weapons used in the commission of the offense. Mann was to be the getaway driver; however, the three co-eonspirators were not able to meet Mann at the agreed-upon meeting point in Ridgely, Tennessee, and were apprehended hiding in the woods behind the bank in Elbridge. Mann was apprehended a short time after the robbery in Ridgely.
+Mann and his co-conspirators were indicted on August 17, 1998 on one count of conspiracy to defraud the United States in violation of 18 U.S.C. § 371, one count of armed bank robbery in violation of 18 U.S.C. § 2113, and three counts of carrying a weapon in the commission of a crime of violence in violation of 18 U.S.C. § 924(c). A superseding indictment was filed on September 21, 1998, alleging the same offenses. On October 20, 1998, Mann pled guilty to one count of conspiracy to defraud the United States, one count of armed bank robbery, and one count of carrying a weapon in the commission of a crime of violence. On January 15, 1999, defendant was sentenced to forty-six months of imprisonment for the conspiracy count to be served concurrently with the forty-six months to which he was sentenced for armed bank robbery. In addition, he was sentenced to sixty months for carrying a weapon in the commission of a crime of violence. Substantial fines were waived as the lower court found that Mann was indigent and unable to pay, but, pursuant to 18 U.S.C. § 3013, the district court imposed a special assessment of three hundred dollars for the three felonies to which Mann pled guilty. He timely appealed on January 28,1999.
+Mann has charged that, although he had failed to address the issues before the trial court, the district court erred because: (1) Mann did not carry the weapon himself as he was the getaway driver; and (2) the special assessment imposed on him should be waived because he is indigent. When a defendant fails to object before the lower court, appellate review is limited to searching the record for plain error. See Fed.R.Crim.P. 52(b). The “error” must be “plain” or “clear” under current law and affect substantial rights. See Johnson v. United States, 520 U.S. 461, 466-67, 117 S.Ct. 1544, 137 L.Ed.2d 718 (1997); United States v. Calloway, 116 F.3d 1129, 1136 (6th Cir.1997).
+Mann challenged his guilty plea to carrying a weapon in the commission of a crime of violence in violation of 18 U.S.C. § 924(c), arguing that since he was not at the scene of the robbery, he could not have been “carrying” the weapon in violation of 18 U.S.C. § 924(c). He asserts that his contention has special resonance in light of Bailey v. United States, 516 U.S. 137, 116 S.Ct. 501, 133 L.Ed.2d 472 (1995), which made clear that the term “carry” should be narrowly construed. A guilty plea is an unconditional admission of guilt and generally precludes the defendant from challenging all nonjurisdictional elements of his conviction. See United States v. Broce, 488 U.S. 563, 569-70, 109 S.Ct. 757, 102 L.Ed.2d 927 (1989).
+Defendant charges that the district court committed plain error when it accepted his guilty plea to violating 18 U.S.C. § 924(c). 18 U.S.C. § 924(c) provides:
+Whoever, during and in relation to any crime of violence or drug trafficking crime (including a crime of violence or drug trafficking crime which provides for an enhanced punishment if committed by the use of a deadly or dangerous weapon or device) for which he may be prosecuted in a court of the United States, uses or carries a firearm, shall, in addition to the punishment provided for such crime of violence or drug trafficking crime, be sentenced to imprisonment for five years, and if the firearm is a short-barreled rifle, short-barreled shotgun, or semiautomatic assault weapon, to imprisonment for ten years, and if the firearm is a machinegun, or a destructive device, or is equipped with a firearm silencer or firearm muffler, to imprisonment for thirty years.
+18 U.S.C.A. § 924(c)(1) (West 1997) (emphasis added). Mann suggests that his guilty plea was in error because he did not carry the weapon himself. In fact, it is undisputed that he was waiting with the getaway car in Ridgely while the bank was being robbed in Elbridge.
+However, the defendant pled guilty to aiding and abetting a violation of 18 U.S.C. § 924(c). This Circuit on numerous occasions has upheld convictions based on aiding and abetting others to violate section 924(c). See Rattigan v. United States, 151 F.3d 551 (6th Cir.1998). United States v. Jones, 102 F.3d 804 (6th Cir. 1996); United States v. Lowery, 60 F.3d 1199 (6th Cir.1995). 18 U.S.C. § 2 provides:
+(a) Whoever commits an offense against the United States or aids, abets, counsels, commands, induces or procures its commission, is punishable as a principal.
+(b) Whoever willfully causes an act to be done which if directly performed by him or another would be an offense against the United States, is punishable as a principal.
+18 U.S.C.A. § 2 (West 2000). “[AJiding and abetting involves: (1) an act by a defendant which contributes to the execution of a crime; and (2) the intent to aid in its commission.” See United States v. Lowry, 60 F.3d 1199, 1202 (6th Cir.1995). In the instant case, Mann helped acquire the weapons used in the bank robbery and, as the getaway driver, was an integral participant and was necessary to the success of the plan. See United States v. Price, 134 F.3d 340, 350 (6th Cir.1998) (“To be found guilty of aiding and abetting, the defendant must,' in some sort associate himself with the venture, that he participate in it as in something he wishes to bring about, that he seek by his action to make it succeed.”). Defendant offers no argument or evidence to contradict the factual basis accepted by the lower court. This is the archetypal case of aiding and abetting. No plain error exists to modify the lower court’s acceptance of his plea.
+Mann also challenges the special assessment of three hundred dollars imposed upon him by the district court. Mann suggests that the application of the sentencing guidelines would have led to imposition of fines between fifteen thousand and one-hundred and fifty thousand dollars. The district court waived imposition of those fines because of Mann’s inability to pay. Mann argues that the lower court should have found him indigent and unable to pay the special assessment as well.
+Special assessments are imposed under 18 U.S.C. § 3013:
+(a) The court shall assess on any person convicted of an offense against the United States—
+(2) in the case of a felony—
+(A) the amount of $100 if the defendant is an individual;
+18 U.S.C.A. § 3013 (West 2000) (emphasis added). The defendant has pled guilty to three felonies; hence, the three-hundred-dollar special assessment. No provision is made for waiver in the statute. In addition, the statute uses mandatory language (“shall”). See United States v. Pagan, 785 F.2d 378, 380 (2d Cir.1986) (“Furthermore, because the imposition of special assessments under section 3013 was mandatory, a sentence lacking such an assessment would have been illegal.”). Again, Mann must demonstrate plain error as to this judgment of the lower court. He has not done so.
+For the foregoing reasons, the district court’s judgment is AFFIRMED.
+. Count Four charges Mann with the following:
+On or about June 19, 1998, in the Western District of Tennessee, the defendants FABIEN MIGUEL JOLIVETTE, DWAYNE EWANN ARMSTRONG, MARSHALL DE-NEE ROSS and DETRIS LARAE MANN being aided and abetted, each by the other, did, during and in relation to a crime of violence; specifically, bank robbery, in violation of Title 18, United States Code, Section 2113, specifically bank robbery, in violation of Title 18, United States Code, Sections 924(c) and 2.
+. Mann does not contest the factual basis provided by the prosecutor, which stated that ”[t]he proof would show that a couple of days later, on June the 19th, Mr. Jolivette, Mr. Armstrong, Mr. Ross and Mr. Mann acquired some new firearms in order to be used in the bank robbery in Elbridge, including a 9-mil-limeter pistol, a .22-caliber pistol and a sawed-off 12-gauge shotgun.” Mann acceded to this characterization of the facts before the lower court and he does not challenge it before this court.
+. Under 18 U.S.C. § 3572(d), the defendant may ask the court to grant him permission to pay the assessment off in installments. It does not appear that Mann has made such a request.

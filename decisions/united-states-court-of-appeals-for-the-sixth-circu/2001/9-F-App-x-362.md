@@ -1,0 +1,34 @@
+---
+court: "United States Court of Appeals for the Sixth Circuit"
+docket: "00-2283"
+decided: "2001-05-09"
+citations: ["9 F. App'x 362"]
+judges: ["Before NORRIS and COLE, Circuit Judges; HOLSCHUH, District Judge."]
+parties: ["Joseph M. MARBLY, Plaintiff-Appellant, v. CITY OF SOUTHFIELD, Defendant-Appellee."]
+source_url: "https://static.case.law/f-appx/9/cases/0362-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 143511
+cites_cases: ["198 F.3d 578", "1999 WL 1023578", "1999 WL 645662", "1999 WL 775904", "2000 WL 1827783", "2000 WL 32009", "24 F.3d 814", "268 F.2d 305", "638 F.2d 963", "796 F.2d 190", "907 F.2d 617"]
+---
+
+# Marbly v. City of Southfield
+
+## Head matter
+
+Joseph M. MARBLY, Plaintiff-Appellant, v. CITY OF SOUTHFIELD, Defendant-Appellee.
+No. 00-2283.
+United States Court of Appeals, Sixth Circuit.
+May 9, 2001.
+Before NORRIS and COLE, Circuit Judges; HOLSCHUH, District Judge.
+The Honorable John D. Holschuh, United States District Judge for the Southern District of Ohio, sitting by designation.
+
+## Majority
+
+Joseph M. Marbly appeals a district court grant of summary judgment for defendant in this civil rights action filed under Title VII of the Civil Rights Act of 1964, 42 U.S.C. § 2000a & b. This case has been referred to a panel of the court pursuant to Rule 34(j)(l), Rules of the Sixth Circuit. Upon examination, this panel unanimously agrees that oral argument is not needed. See Fed. R.App. P. 34(a).
+Marbly filed his complaint in the district court under Title VII, alleging that he was subjected to an unlawful search and arrest in 1999. Plaintiff named as defendants the City of Southfield, Michigan, and an individual Southfield police sergeant and sought compensatory and punitive damages. On plaintiffs motions, the clerk entered entries of default against each defendant after they did not file an answer to the complaint within twenty days of service of summons. Three days later, defendants filed their answer to plaintiffs complaint. Defendants subsequently filed a motion to set aside the clerk’s entries of default, and the parties submitted further pleadings. Following a hearing, the district court granted defendants’ motion and set aside the entries of default.
+Thereafter, defendants moved the district court for summary judgment, and plaintiff responded in opposition and also moved for summary judgment. Again, the district court conducted a hearing and granted defendants’ motion for summary judgment, denied plaintiffs motion, and entered judgment accordingly. Plaintiff filed a timely notice of appeal.
+On appeal, plaintiff contends that the district court erred in setting aside the clerk’s entries of default and in granting summary judgment for defendants. Defendants essentially respond that the district court’s rulings were proper. Upon consideration, we affirm the district court’s judgment because plaintiff has not provided the transcripts necessary to a review of plaintiffs claims on appeal.
+Plaintiffs claims on appeal relate to rulings that cannot be reviewed without transcripts of the pertinent district court hearings. Generally, this court reviews a district court order setting aside an entry of default for an abuse of discretion, see Berthelsen v. Kane, 907 F.2d 617, 620 (6th Cir.1990), and reviews a district court’s grant of summary judgment de novo. See Mounts v. Grand Trunk W. R.R., 198 F.3d 578, 580 (6th Cir.2000). However, plaintiff has a duty to order the transcript when it is necessary for review of the issues he intends to raise on appeal. See Fed. R.App. P. 10(b). Here, the district court entered orders granting defendants’ motion to set aside entries of default and for summary judgment, in each case referring to its reasons stated on the record at the pertinent hearings which have not been transcribed. Plaintiff failed to fulfil his obligation necessary to a determination of the merits of his claims on appeal. Without a transcript, this court cannot evaluate the propriety of the challenged district court rulings, and plaintiff has waived review of his claims by his failure to provide the transcript. See Fed. R.App. P. 10(b); Hawley v. City of Cleveland, 24 F.3d 814, 821 (6th Cir.1994); Herndon v. City of Massillon, 638 F.2d 963, 965 (6th Cir. 1981); King v. Carmichael, 268 F.2d 305, 306 (6th Cir.1959). Under these circumstances, the district court’s judgment must be affirmed.
+Nonetheless, it is noted that plaintiffs claims on appeal appear to lack merit. A district court may set aside a clerk’s entry of default “(Dor good cause shown.” Fed.R.Civ.P. 55(c); Berthelsen, 907 F.2d at 620; Shepard Claims Serv., Inc. v. William Darrah & Assoc., 796 F.2d 190, 193 n. 1 (6th Cir.1986). The court should consider whether: (1) plaintiff will be prejudiced; (2) defendant has a meritorious defense; and (3) defendant’s culpable conduct led to the default. Berthelsen, 907 F.2d at 620; Shepard Claims Serv., Inc., 796 F.2d at 192. Although these are the same factors considered by a court in deciding whether to set aside a default judgment, the factors should be applied more leniently to relieve a party from a procedural entry of default to reflect the strong preference for trial on the merits in federal courts. Shepard Claims Serv., Inc., 796 F.2d at 193-94. In fact, a district court abuses its discretion in denying a motion to set aside an entry of default when the first two factors favor setting aside the entry. Id. at 194.
+Here, the district court properly permitted defendants to defend this action and granted summary judgment for defendants. First, plaintiff can show no prejudice from the grant of relief. Second, defendants established to the district court’s satisfaction that they had a meritorious defense to this action. Plaintiffs complaint appears to be precluded under the doctrine of res judicata because plaintiff repeatedly has litigated claims related to those at issue herein. See Marbly v. Rubin, No. 99-1384, 2000 WL 32009 (6th Cir. Jan.4, 2000); Marbly v. Rubin, No. 99-1071, 1999 WL 1023578 (6th Cir. Nov.5, 1999); Marbly v. Rubin, No. 98-2039, 1999 WL 775904 (6th Cir. Sept.24, 1999); Marbly v. Rubin, No. 98-1846, 1999 WL 645662 (6th Cir. Aug.13, 1999). Most recently, this court affirmed a district court order enjoining plaintiff from filing further vexatious lawsuits concerning related claims. Marbly v. Kay, No. 00-1530, 2000 WL 1827783 (6th Cir. Dec.8, 2000). Finally, the record reflects that it is questionable whether defendants were in default at all because they served their answer on plaintiff within twenty days of service as required under Fed.R.Civ.P. 12(a)(1)(A). Under these circumstances, the district court properly permitted defendants to defend this action and properly granted summary judgment for defendants.
+Accordingly, the district court’s judgment is affirmed. See Rule 34(j)(2)(C), Rules of the Sixth Circuit.

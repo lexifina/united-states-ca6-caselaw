@@ -1,0 +1,30 @@
+---
+court: "United States Court of Appeals for the Sixth Circuit"
+docket: "13516"
+decided: "1959-01-22"
+citations: ["82 Ohio Law Abs. 158"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before ALLEN, Chief Judge, SIMONS, Circuit Judge, and GOURLEY, District Judge."]
+parties: ["STATE, ex rel. KLAPP, Prosecuting Attorney, Appellant, v. DAYTON POWER & LIGHT CO. et, Appellees."]
+source_url: "https://static.case.law/ohio-law-abs/82/cases/0158-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1798827
+cites_cases: ["106 Oh St 489", "111 N. E., 155", "12 N. E., 445", "137 Oh St 437", "140 N. E., 410", "19 O. O. 143", "291 U. S., 431", "45 Oh St 118", "92 Oh St 478"]
+---
+
+# State ex rel. Klapp v. Dayton Power & Light Co.
+
+## Majority (Per CURIAM.)
+
+OPINION
+Per CURIAM.
+In an action quo warranto originally filed in the state court the District Court, after removal and eventual hearing on the merits, gave judgment for defendant. Defendant, ard its predecessors, electric light and power companies, had operated in Piqua, Ohio, for nearly 50 years in accordance with an ordinance of the city. In this action the city sought to oust defendant from the streets and public places of the city and to force defendant to remove its poles and other equipment from such streets and public places upon or over the ground. A later stipulation joined in by the city excepts from the prayer for removal equipment used to carry electric power through Piqua on its way to points beyond the city.
+Relator, representing Piqua, joined a nonresident trust company incorporated in New York State, successor to defendant’s mortgagee and trustee for bondholders, as defendant in the action. The nonresident mortgagee and trustee in turn removed the case to the District Court. A motion by relator to remand the case to the state court was later denied. We think this action was correct. The mortgage which defendant executed to secure funds partly used for the operation in Piqua, was executed prior to the filing of this action. Defendant’s mortgagee was therefore entitled to have its rights adjudicated in federal court. The successor mortgagee and trustee was entitled to the same remedy. Chase National Bank v. City of Norwalk, opinion by Mr. Justice Brandeis, 291 U. S., 431, 54 S. Ct., 475, 78 L. Ed., 894. If the nonresident mortgagee is entitled to have its rights adjudicated in the federal court a fortiori the mortgagee or its successor is entitled to removal.
+In the original action defendant’s answer relied upon the alleged fact that a valid contract or franchise to operate in Piqua was embodied in an ordinance duly enacted in 1884 and accepted by defendant’s predecessor. After numerous amendments and supplemental proceedings defendant shifted its position on this point and asserted in its final answer that the ordinance of 1884 was invalid, that no contract between defendant and Piqua existed and that the city had not applied to the Public Utilities Commission of Ohio for relief, as required by §§4905.20 and 4905.21 R. C. These sections require that in case abandonment, withdrawal or closing of service of a public utility is sought, permission must be secured from the Public Utilities Commission of the State of Ohio for such withdrawal or abandonment. If the contract was valid and existed when this action was filed the Miller Act would not apply, for under such circumstances the application of the sections cited would impair the obligation of the contract. East Ohio Gas Company v. City of Cleveland, 106 Oh St 489, 140 N. E., 410. The District Court held that no valid contract existed between the parties when the action was filed and that this point disposed of the case.
+Relator in its original petition had denied the existence of any valid contract between the city and defendant, but in its final amended complaint it shifted its position and claimed that the contract was valid but had been terminated by the city in 1933. It attacks the judgment herein upon the ground that the contract was valid and that defendant was estopped to plead the invalidity of the ordinance and the contract.
+We do not discuss this contention at length but refer to the scholarly opinion of the district court after trial upon the merits, with its excellent discussion of the legal questions involved. As rightly found by the court, the city was in no way misled by defendant’s shift in position. The city itself had radically altered its theory of the ease for the purpose of trial on the merits and neither party was prejudiced by this mutual change of position. Both defendant and the city had derived advantages from defendant’s use of the streets of Piqua. Moreover, as found in effect by the district court, the equities preponderate in favor of defendant. If ordered to remove its equipment defendant will have nothing but the salvage value and it is estimated that its loss will be $425,000.
+The conclusion of the District Court that the ordinance of 1884 was invalid is supported by the applicable Ohio law. Ohio cities had no power in 1884 to pass an ordinance bestowing a franchise upon a public utility company for the use of the city streets. Ravenna v. Pennsylvania Company, 45 Oh St 118, 12 N. E., 445; Billings v. Cleveland Railway Company, 92 Oh St 478, 111 N. E., 155. The long use of the streets by defendant and its predecessors did not create a valid contract. Since in 1933 no contract existed between the parties, the Miller Act, §4905.21 R. C., applies and the city is required to seek from the Public Utilities Commission permission for the proposed withdrawal of service by defendant. Cf. City of Cincinnati v. Public Utilities Commission of Ohio, 137 Oh St 437, 19 O. O. 143, 30 N. E. (2d), 797.
+The judgment is affirmed upon the grounds and for the reasons stated in the decision of the District Court filed August 2, 1957, and in the decision overruling motion for new trial filed December 11, 1957.
+. The parties will be denominated as in the court below.

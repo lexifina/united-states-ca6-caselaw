@@ -1,0 +1,38 @@
+---
+court: "United States Court of Appeals for the Sixth Circuit"
+docket: "00-5503"
+decided: "2001-01-26"
+citations: ["3 F. App'x 272"]
+judges: ["Before BATCHELDER and CLAY, Circuit Judges; POLSTER, District Judge."]
+parties: ["Joyce BROWN, Plaintiff-Appellant, v. INTERNAL REVENUE SERVICE, Defendant-Appellee."]
+source_url: "https://static.case.law/f-appx/3/cases/0272-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 164083
+cites_cases: ["106 F.3d 709", "138 F.3d 608", "142 F.3d 279", "176 F.3d 359", "26 U.S.C. §§ 6335", "32 F.3d 989", "370 U.S. 626", "403 U.S. 388", "42 U.S.C. §§ 1983", "47 F.3d 1438", "73 F.3d 642", "97 F.3d 876"]
+---
+
+# Brown v. Internal Revenue Service
+
+## Head matter
+
+Joyce BROWN, Plaintiff-Appellant, v. INTERNAL REVENUE SERVICE, Defendant-Appellee.
+No. 00-5503.
+United States Court of Appeals, Sixth Circuit.
+Jan. 26, 2001.
+Before BATCHELDER and CLAY, Circuit Judges; POLSTER, District Judge.
+The Honorable Dan A. Polster, United States District Judge for the Northern District of Ohio, sitting by designation.
+
+## Majority
+
+Joyce Brown, a Kentucky resident proceeding pro se, appeals a district court order dismissing her civil action filed pursuant to 26 U.S.C. §§ 6335 and 7426; the doctrine announced in Bivens v. Six Unknown Named Agents of Fed. Bureau of Narcotics, 403 U.S. 388, 397, 91 S.Ct. 1999, 29 L.Ed.2d 619 (1971); and 42 U.S.C. §§ 1983, 1985, and 1986. This case has been referred to a panel of the court pursuant to Rule 34(j)(l), Rules of the Sixth Circuit. Upon examination, this panel unanimously agrees that oral argument is not needed. Fed. R.App. P. 34(a).
+On February 10, 1997, Brown and “Shield of Faith” filed a complaint against the Internal Revenue Service (“IRS”) and Dennis Anderson, the purchaser of property sold by the IRS to satisfy a federal tax liability allegedly owed by Brown. Brown subsequently retained counsel who filed an amended complaint identifying the plaintiffs as Della Brown, who is Brown’s mother, and Shield of Faith Ministries, Incorporated (“Shield of Faith”). The amended complaint purported to sue the IRS and IRS Agent Lynn Tucker. The complaint alleged that Brown acquired property located on Todds Road in Lexington, Kentucky, on April 3, 1996. Although Brown acquired the property on behalf of Shield of Faith, a deed to the property was issued to Brown, rather than Shield of Faith. On June 9, 1996, Brown executed a quitclaim deed to the property to Della Brown and Shield of Faith, which was recorded on July 8,1996.
+In the meantime, on April 30, 1986, the IRS issued a notice of tax deficiency for the year 1983 to Brown and her ex-husband, Jones Ogagun, at their former Louisville, Kentucky address. Brown and Ogagun had divorced prior to April 30, 1986, however, and Brown no longer resided at the Louisville address. On July 23, 1996, Tucker issued a levy against the Todds Road property, a notice of seizure, and a notice that the property would be sold at public auction, all of which Brown contended she never received. On August 13, 1996, the IRS sold the property to Anderson.
+As a result of the above-described proceedings, Della Brown and Shield of Faith (“plaintiffs”) alleged that the IRS wrongfully levied against the Todds Road property and failed to properly notify them of the seizure and sale of the property. The plaintiffs also asserted Fourth and Fifth Amendment claims against Tucker pursuant to Bivens and § 1983. The plaintiffs sought monetary relief.
+The claims against Anderson and Tucker were dismissed on November 6, 1997, and January 3, 2000, respectively. The remaining claims against the IRS proceeded to trial on January 12, 2000. The plaintiffs’ counsel and counsel for the IRS appeared for trial. However, because Della Brown did not appear for trial, the district court dismissed the case. Reconsideration of the dismissal was denied. Brown has filed a timely appeal.
+Initially, we note that we have jurisdiction to consider this appeal. Even though Brown was deleted as a plaintiff when counsel filed an amended complaint, she may appeal if she has intervened, tried to intervene, or been “summoned” into court below. Hinten v. Hercules Engines, Inc., 138 F.3d 608, 611 (6th Cir.1998). Brown filed an initial pro se complaint, an amended complaint, and responded to all of the pleadings filed by the defendants, until counsel was retained. Under these circumstances, Brown’s initiation of the case and participation in the proceedings permit us to hear her appeal. Id.; EEOC v. Louisiana Office of Cmty. Servs., 47 F.3d 1438, 1442 (5th Cir.1995).
+We review for an abuse of discretion a district court’s dismissal of a suit for failure to prosecute under Fed.R.Civ.P. 41(b). Link v. Wabash R.R., 370 U.S. 626, 633, 82 S.Ct. 1386, 8 L.Ed.2d 734 (1962); Knoll v. Am. Tel. & Tel. Co., 176 F.3d 359, 363 (6th Cir.1999). Federal Rule of Civil Procedure 41(b) provides for dismissal of a complaint where the plaintiff has failed “to prosecute or to comply with these rules or any order of court....”
+Upon review, we conclude that the district court acted within its discretion in dismissing Brown’s complaint pursuant to Fed.R.Civ.P. 41(b). Link, 370 U.S. at 633; Knoll, 176 F.3d at 363. Neither Brown nor Della Brown appeared for trial on their own behalf or to provide assistance to counsel so that he could proceed on behalf of Shield of Faith. Brown had prior notice of the date trial would commence and counsel admonished his clients that they must attend the trial. Brown offered no explanation for her failure to appear at trial. The matter had been pending on the district court’s docket for approximately three years and the district court had expressed its desire to resolve the case due to its age. ‘Where a plaintiff does not appear at the trial date or, ... is inexcusably unprepared to prosecute the case, Rule 41(b) dismissal is particularly appropriate.” Knoll, 176 F.3d at 364.
+Brown’s remaining issues concern the district court’s dismissal of her §§ 1983, 1985, and 1986 claims, her claims against Anderson, and the alleged unlawful acts of the IRS. While Brown has listed these issues, she has not offered any argument or citations in support of them. The failure to present an argument in an appellate brief waives appellate review. Buziashvili v. Inman, 106 F.3d 709, 719 (6th Cir.1997); Kocsis v. Multi-Care Mgmt., Inc., 97 F.3d 876, 881 (6th Cir.1996).
+Even if Brown had not waived these issues by failing to brief them, her challenges fail. Anderson is not a state actor subject to liability under § 1983, Catz v. Chalker, 142 F.3d 279, 289 (6th Cir.1998), or a federal agent subject to liability under Bivens. Bivens, 403 U.S. at 397. Brown also did not allege that Anderson acted in concert with state or federal agents. Brown’s § 1985(2) and (3) claims were properly dismissed because Brown failed to allege any facts upon which a conspiracy could be based. Because the § 1985 claims were dismissed, Brown’s § 1986 claim was also properly dismissed. Haverstick Enters., Inc. v. Fin. Fed,. Credit, Inc., 32 F.3d 989, 994 (6th Cir.1994).
+We decline to address Brown’s arguments relating to the IRS’s levy upon and sale of the Todds Road property. The district court dismissed Brown’s action on the day of trial prior to deciding the merits of the underlying action. Unless exceptional circumstances are present, issues which were not reached and ruled upon by the district court will not be addressed on appeal. Maldonado v. Nat’l Acme Co., 73 F.3d 642, 648 (6th Cir.1996). No exceptional circumstances exist in this case.
+Accordingly, the district court’s order is affirmed. Rule 34(j)(2)(C), Rules of the Sixth Circuit.

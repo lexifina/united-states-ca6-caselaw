@@ -1,0 +1,37 @@
+---
+court: "United States Court of Appeals for the Sixth Circuit"
+docket: "00-1268"
+decided: "2001-02-07"
+citations: ["3 F. App'x 478"]
+judges: ["Before MERRITT and COLE, Circuit Judges; HOOD, District Judge."]
+parties: ["John Vincent HYLAND, Jr., Plaintiff-Appellant, v. William J. CLINTON, et al., Defendants-Appellees."]
+source_url: "https://static.case.law/f-appx/3/cases/0478-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 164530
+cites_cases: ["120 S.Ct. 1263", "146 L.Ed.2d 118", "179 F.3d 1014", "183 F.3d 477", "1997 WL 664745", "1998 WL 152938", "1998 WL 384556", "2000 WL 125876", "2000 WL 1434705", "2000 WL 1647952", "28 U.S.C. § 1915", "42 U.S.C. § 1983", "528 U.S. 1198", "794 F.2d 1152", "835 F.2d 1145", "85 F.3d 257", "99 F.3d 807"]
+---
+
+# Hyland v. Clinton
+
+## Head matter
+
+John Vincent HYLAND, Jr., Plaintiff-Appellant, v. William J. CLINTON, et al., Defendants-Appellees.
+No. 00-1268.
+United States Court of Appeals, Sixth Circuit.
+Feb. 7, 2001.
+Before MERRITT and COLE, Circuit Judges; HOOD, District Judge.
+The Honorable Joseph M. Hood, United States District Judge for the Eastern District of Kentucky, sitting by designation.
+
+## Majority
+
+ORDER
+Pro se Michigan prisoner John Vincent Hyland, Jr., a frequent litigator, appeals a district court judgment that dismissed his fee-paid 42 U.S.C. § 1983 suit as frivolous pursuant to 28 U.S.C. § 1915A. The case has been referred to this panel pursuant to Rule 34(j)(l), Rules of the Sixth Circuit. We unanimously agree that oral argument is not needed. See Fed. R.App. P. 34(a).
+Seeking, for the second time, to challenge the impeachment process and remove President Clinton from office, Hyland filed suit against the President, Chief Justice Rehnquist, the members of the Senate, and other government officials. See Hyland v. Clinton, No. 99-1412, 2000 WL 125876 (6th Cir. Jan.28, 2000) (unpublished) (appeal from dismissal of Hyland’s petition to remove President Clinton from office).
+The district court dismissed the suit as frivolous, certified that an appeal could not be taken in good faith, and noted that the dismissal fit within the definition of dismissals described by 28 U.S.C. § 1915(g), the “three-strikes” rule.
+In his timely appeal, Hyland cites to this court’s decisions in Benson v. O Brian, 179 F.3d 1014 (6th Cir.1999), and Apple v. Glenn, 183 F.3d 477 (6th Cir.1999), cert. denied, 528 U.S. 1198, 120 S.Ct. 1263, 146 L.Ed.2d 118 (2000), and argues that the district court erred by sua sponte dismissing his suit and applying 28 U.S.C. § 1915(g) because he has paid all required district court and appellate filing fees.
+Initially, we note that Hyland abandoned all of his substantive district-court claims by failing to brief them on appeal. See Enertech Elec., Inc. v. Mahoning County Comm’rs, 85 F.3d 257, 259 (6th Cir.1996); Wright v. Holbrook, 794 F.2d 1152, 1157 (6th Cir.1986).
+In addition, we note that Hyland’s § 1915(g) argument is misplaced. Because he paid the required filing fee in full, § 1915(g) was not applied to his case. Nevertheless, the district court noted that the dismissal as frivolous qualified as a “strike” under § 1915(g) should Hyland seek to proceed as a pauper under § 1915 in the future. This notation was entirely proper because § 1915(g) does not distinguish between prior in forma pauperis actions and prior actions in which the fee was paid. See § 1915(g).
+Contrary to Hyland’s contention, this case is not covered by our recent decisions in Benson and Apple. In Benson, the court ruled that a district court could not sua sponte dismiss a fee-paid complaint under § 1915(e)(2) because this section only applies to complaints filed in forma pauperis. Benson, 179 F.3d at 1016. In Apple, the court reiterated its holding in Benson, but ruled that dismissal of a fee paid complaint will be upheld if the plaintiffs allegations are so attenuated as to divest the court of jurisdiction. Apple, 183 F.3d at 479. In neither of these cases did this court address the propriety of dismissing a fee-paid case pursuant to § 1915A, the statute the district court relied on to dismiss this case. Under § 1915A, a court is expressly authorized to dismiss any civil action filed by a prisoner seeking relief from a governmental entity, officer, or employee, before docketing if feasible, if the court concludes that the complaint is frivolous, malicious, or fails to state a claim upon which relief may be granted, or if the plaintiff seeks monetary relief from a defendant who is immune from such relief. Because the district court in this case specifically relied on § 1915A, it did not run afoul of this court’s rulings in Benson and Apple, and instead acted pursuant to express statutory authority under § 1915A.
+Despite being warned of the possibility of sanctions, Hyland continues to litter our docket with frivolous appeals. In addition to Hyland v. Clinton I, four appeals have resulted in unpublished decisions on the merits. See Hyland v. Hy land, No. 99-2390, 2000 WL 1434705 (6th Cir. Sept.20, 2000) (following dismissal of a suit seeking review of Hyland’s divorce decree); Hyland v. Davis, No. 97-1243, 1998 WL 384556 (6th Cir. June 18, 1998) (following dismissal of a § 1983 suit because of the defendant’s absolute judicial immunity); Hyland v. Porter, No. 97-1486, 1998 WL 152938 (6th Cir. Mar.23, 1998) (challenging the dismissal of a § 1983 suit against the state judge in Hyland’s divorce and child-custody proceedings); and Hyland v. Simmons, No. 96-2279, 1997 WL 664745 (6th Cir. Oct.23, 1997) (following dismissal of a § 1983 suit against a child psychologist who testified at Hyland’s child-custody proceedings). Most recently, in Hyland v. Martin, No. 00-1269, 2000 WL 1647952 (6th Cir. October 25, 2000), we affirmed the district court’s dismissal, as frivolous, of Hyland’s suit against prison officials whom he claimed violated his right to access to the courts, equal protection, and RICO by limiting the balance he may keep on his photocopy credit card.
+By filing unsubstantial and vexatious suits, Hyland has abused his right to file suits and appeals. Hyland has twice been warned that he will suffer sanctions for further prosecution of frivolous appeals. See Hyland v. Martin, No. 00-1269 (cautioning that “further prosecution of frivolous appeals will result in the imposition of sanctions.”); Hyland v. Hyland, No. 99-2390 (warning Hyland to cease prosecution of any “pending or future frivolous appeals____”). The imposition of sanctions is particularly appropriate, because it appears that Hyland has the funds to continue to prosecute suits without regard to § 1915(g). Therefore, double costs are taxed against Hyland for continuing to prosecute this baseless appeal. Future frivolous appeals will result in a permanent enjoinder on Hyland’s right to file any civil lawsuit alleging or asserting factual or legal claims that he has already litigated in this court and the courts subject to this court’s jurisdiction “without first obtaining certification from a United States Magistrate Judge that the claim or claims asserted are not frivolous and that the suit is not brought for any improper purpose.” Ortman v. Thomas, 99 F.3d 807, 811 (6th Cir.1996); see also Filipas v. Lemons, 835 F.2d 1145, 1146 (6th Cir.1987) (requiring leave of court because of litigant’s history of vexatious litigation).
+Accordingly, double costs are taxed against Hyland, and we affirm the district court’s judgment. Rule 34(j)(2)(C), Rules of the Sixth Circuit.

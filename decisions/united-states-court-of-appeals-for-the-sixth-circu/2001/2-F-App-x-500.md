@@ -1,0 +1,31 @@
+---
+court: "United States Court of Appeals for the Sixth Circuit"
+docket: "99-3211"
+decided: "2001-01-24"
+citations: ["2 F. App'x 500"]
+parties: ["George R. AMBATI and Pranaykumar Ambati, Petitioners, v. Janet RENO and Immigration and Naturalization Service, Respondents."]
+source_url: "https://static.case.law/f-appx/2/cases/0500-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 133551
+cites_cases: ["110 F.3d 462", "179 F.3d 1028", "49 F.3d 263", "810 F.2d 135", "902 F.2d 609"]
+---
+
+# Ambati v. Reno
+
+## Head matter
+
+George R. AMBATI and Pranaykumar Ambati, Petitioners, v. Janet RENO and Immigration and Naturalization Service, Respondents.
+No. 99-3211.
+United States Court of Appeals, Seventh Circuit.
+Jan. 24, 2001.
+Before POSNER, RIPPLE, WILLIAMS, Circuit Judges.
+
+## Majority
+
+ORDER
+Oral argument in this immigration appeal was scheduled for August 9, 2000. Two days prior to oral argument, John W. Kearns, one of two attorneys representing the petitioners, filed a motion to waive or postpone oral argument, stating that he was hired only to draft the brief and was unprepared to argue the appeal orally. He further told us that only the petitioners’ other attorney, Raymond J. Sanders, was prepared to argue orally but was traveling abroad and unavailable for argument.
+On August 8, 2000, we vacated oral argument and ordered Mr. Sanders and Mr. Kearns to show cause why they should not be sanctioned for placing themselves in a position where they were unable to argue orally on behalf of their clients. Neither attorney responded, but because we were concerned that Mr. Sanders had not received reasonable notice of the possibility of sanctions, see Matter of Bero, 110 F.3d 462, 466 (7th Cir.1997), we issued a second Rule to Show Cause on December 6, 2000. In the December 6 order we again directed both attorneys to explain why they should not be sanctioned for abandoning their clients, and we additionally directed Mr. Kearns, who received a copy of our August 8 order, to explain why he Should not be sanctioned for failing to respond to our first order. Only Mr. Sanders has submitted a response.
+This court may discipline attorneys who practice before it for conduct unbecoming a member of the bar or for failure to comply with any court rule or order, Matter of Cook, 49 F.3d 263, 267 (7th Cir.1995); Fed. R.App. P. 46(c), and our disciplinary power is not limited to attorneys admitted to practice in this court, United States v. Song, 902 F.2d 609, 610 (7th Cir.1990). In determining appropriate sanctions, we carefully examine the circumstances of the particular situation, keeping in mind that the purpose of imposing sanctions is to protect litigants and possible future clients from further misfeasance, and deter other members of the bar from doing the same. See United States v. Stillwell, 810 F.2d 135, 136 (7th Cir.1987). “We also consider the effect of the sanction on the individual attorneys involved. Appropriate corrective action ought to require lawyers to reassess the manner in which they are fulfilling professional obligations and afford, when appropriate, an opportunity for reform. We must also remember that state bar officials have great responsibilities in this area and have a right to expect our cooperation.” Id.
+The casual renouncement of oral argument for reasons unrelated to Federal Rule of Appellate Procedure 34 approaches abandonment of the client, which is sanctionable conduct under Rule 46(c). United States v. Adeniji, 179 F.3d 1028, 1029-30 (7th Cir.1999) (Posner, J., in chambers). Upon consideration of Mr. Sanders’s response, we are convinced that he and Mr. Kearns were not prepared to capably represent their clients’ interests before this court and have demonstrated poor professional judgment. Mr. Sanders’s lackadaisical response and Mr. Kearns’s failure to twice respond to our orders demonstrate disrespect for this court. Importantly, this case is an appeal from an Immigration and Naturalization Service order directing the petitioners’ removal from the United States. In our experience, people with immigration problems generally have very little idea of what to expect from our system of justice. We believe that we have a special obligation to protect them from attorneys who do not fulfill their professional responsibilities.
+We therefore fíne attorneys Raymond J. Sanders and John W. Kearns $1,000, for which they are jointly responsible for paying in the clerk’s office by check payable to Clerk, U.S. Court of Appeals. Payment must be made within 14 days of this order. Mr. Sanders is suspended from the practice of law before this court for one year. Additionally, the clerk of this court shall transmit a copy of this order to the Illinois Attorney Registration and Disciplinary Commission and to Petitioners George and Pranaykumar Ambati.
+IT IS SO ORDERED.

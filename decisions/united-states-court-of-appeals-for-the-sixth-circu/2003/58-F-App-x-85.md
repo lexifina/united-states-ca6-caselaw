@@ -1,0 +1,52 @@
+---
+court: "United States Court of Appeals for the Sixth Circuit"
+docket: "01-3032"
+decided: "2003-01-09"
+citations: ["58 F. App'x 85"]
+parties: ["James D. LYONS, Plaintiff-Appellant, v. Mohammed AZAM, Ross Quinn, and John Manenti, Defendants-Appellees."]
+source_url: "https://static.case.law/f-appx/58/cases/0085-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1006867
+cites_cases: ["228 F.3d 729", "263 F.3d 513", "28 U.S.C. § 1291", "28 U.S.C. § 1915", "361 U.S. 363", "506 U.S. 9", "697 F.2d 718", "87 F.3d 172", "896 F.2d 1313", "907 F.Supp. 618"]
+---
+
+# Lyons v. Azam
+
+## Head matter
+
+James D. LYONS, Plaintiff-Appellant, v. Mohammed AZAM, Ross Quinn, and John Manenti, Defendants-Appellees.
+No. 01-3032.
+United States Court of Appeals, Sixth Circuit.
+Jan. 9, 2003.
+Before MERRITT and GILMAN, Circuit Judges; and TARNOW, District Judge.
+The Honorable Arthur J Tamow, United States District Judge for the Eastern District of Michigan, sitting by designation
+
+## Majority (TARNOW, District Judge.)
+
+OPINION
+TARNOW, District Judge.
+Prisoner James D. Lyons filed a pro se complaint in the Northern District of Ohio (Polster.J.) seeking medical treatment and injunctive relief from various health care professionals for serious medical problems associated with his catheterization. Based upon an informal agreement arranged with officials from his Bureau of Prisons (BOP) facility, the District Court found Lyons’s complaint to be moot and dismissed the case without prejudice. Unsatisfied with the BOP’s response, Lyons appeals the District Court’s dismissal of his complaint. For the reasons set forth below, we AFFIRM the decision of the District Court.
+I. BACKGROUND
+A. Factual Background
+For several months before filing his complaint on November 27, 2000, Lyons suffered various problems associated with his catheterization, including serious bleeding, infection, and erectile dysfunction. Lyons alleged that these problems were caused by improper and unsterile catheterization administered by his former prison facility, the Federal Correctional Institution (FCI) at Elkton, Ohio. Lyons sought improved care and treatment for his condition. Soon after the filing of the complaint, BOP officials agreed that Lyons would be seen by a urologist. On January 3, 2001, Lyons was seen by a urologist but was allegedly not examined or treated. Lyons’s medical problems continued.
+After the dismissal of his complaint, Lyons informed the District Court on March 6, 2001 that he had been transferred to the Federal Medical Center (FMC) at Lexington, Kentucky. On September 15, 2001, Lyons notified the Court of another transfer, this time to the FMC in Butner, North Carolina.
+B. Procedural Background
+On November 27, 2000, Lyons filed a complaint and motion for a temporary restraining order in the Northern District of Ohio, seeking injunctive relief only to address his medical problems. Lyons named three health care professionals at the Elk-ton, Ohio, FCI: 1) Mohammed Azam, Health Services Administrator; 2) Dr. John Manenti, Clinical Director; and 3) Dr. Ross Quinn, primary attending physician. On the date of filing the complaint, Lyons also filed a form “Application to Proceed In Forma Pauperis, Supporting Documentation & Order” and the required financial information.
+On November 29, 2000, the District Court conducted a teleconference with Lyons and unnamed BOP officials at Lyons’s prison who agreed to refer Lyons to a board certified urologist outside of the prison. Two days later, based on the assurances that Lyons would receive treatment. the District Court found that his application was moot and dismissed the case sua sponte and without prejudice.
+After filing his Notice of Appeal on January 4, 2001, Lyons filed three other motions with the District Court that indicated that he had not received the treatment he had sought. On January 11, 2001, he filed an “Application to Reinstate [Petition For] Emergency Temporary Restraining Order.” Two similar motions were filed on June 18 and June 25, 2001, substituting different BOP defendants in the case caption. The District Court denied these petitions based on its lack of jurisdiction.
+II. JURISDICTION AND STANDARD OF REVIEW
+This Court has jurisdiction to review the final decision of the District Court pursuant to 28 U.S.C. § 1291. The Sixth Circuit reviews a district court’s decision regarding mootness de novo. Cleveland Branch, N.A.A.C.P. v. City of Parma, 263 F.3d 513 (6th Cir.2001).
+III. ANALYSIS
+A. Lyons’s complaint is moot because he is no longer in the care and custody of the Defendants-Appellees
+Lyons is no longer incarcerated in the FCI Elkton, Ohio facility where the three defendants in this case worked. The most recent record indicates that Lyons is now incarcerated in the Federal Medical Center in Butner, North Carolina. A panel of this Court has noted that a prisoner’s claims for injunctive relief become moot when the prisoner is no longer confined at the prison where the claim allegedly arose. See Kensu v. Haigh, 87 F.3d 172, 175 (6th Cir.1996). Appellant’s complaint, being solely for injunctive relief, is therefore moot. Lyons’s misguided efforts to substitute defendants in this case by changing the defendants’ names on the case caption (after the Notice of Appeal was filed) do nothing to affect the mootness of his complaint.
+A panel of this Court has stated: “[a] federal court has no authority to render a decision upon moot questions or to declare rules of law that cannot affect the matter at issue.” Cleveland Branch, N.A.A.C.P. v. City of Parma, 263 F.3d 513, 530 (6th Cir.2001) (citing Church of Scientology v. United States, 506 U.S. 9, 12, 113 S.Ct. 447,121 L.Ed.2d 313 (1992)). Thus, on the basis of Lyons’s transfer, we find the complaint to be moot and affirm the ruling of the District Court. See Leary v. Daeschner, 228 F.3d 729, 741 n. 7 (6th Cir.2000) (the Court may affirm a final judgment on any basis supported by the record).
+B. The rapid dismissal of the complaint may have impaired the District Court from addressing Lyons’s serious medical needs and hindered the participation of the Defendants-Appellees
+The District Court’s dismissal of Lyons’s case without prejudice on grounds of mootness (owing to the BOP’s agreement) may be justified at law. As a panel of this Court has previously noted, “[generally, the settlement of a dispute between the parties does render the case moot.” International Union, United Automobile, Aerospace, Agricultural And Implement Workers Of America v. Dana Corp., 697 F.2d 718, 721 (6th Cir.1983) (citing Local No. 8-6, Oil, Chemical & Atomic Workers International Union v. Missouri, 361 U.S. 363, 80 S.Ct. 391, 4 L.Ed.2d 373 (I960)). There is nothing, however, in the record to indicate that Lyons himself believed that the BOP’s assurances at the teleconference would satisfy his claims. In any event, it is obvious that Lyons would have better served his cause by filing a motion to reinstate his complaint instead of filing his Notice of Appeal with this Court.
+Nonetheless, we note that the rapid dismissal of this case may have impaired the District Court in addressing Lyons’s continuing assertions of serious medical need. In his complaint, Plaintiff asked for actual diagnosis and treatment for serious medical problems, not merely the assurance of an appointment. To dismiss the ease sua sponte and enter judgment before treatment, based only on the assurance of a doctor’s appointment, is to miss the gravamen of Plaintiffs complaint. We believe the better practice in such cases is to defer a dismissal until treatment is rendered or until a stipulation is obtained.
+We also note that the quick dismissal of this case resulted in procedural irregularities that foreclosed legal participation in this case by Defendants-Appellees. That is, because the Court never ruled on Lyons’s motion for IFP status, the defendants were never served with a summons or the complaint as per the IFP statute. 28 U.S.C. § 1915(d). The failure to serve the defendants was not Lyons’s fault. The District Court docket shows that no address or counsel of record was ever entered for the defendants. It is not even evident from the record whether counsel for the BOP participated in the November 29, 2000 teleconference.
+These issues continued at the appellate stage. Although the District Court did grant Plaintiff permission to proceed IFP on appeal, it does not appear that the District Court served the Notice of Appeal on the Defendants, as would be usual per court rule. Fed. R.App. P. 8(d)(1). This is likely attributable to the original failure to rule on Lyons’s IFP status and authorize service of the complaint.
+Although the legal participation of all relevant parties is always preferable, the Defendants-AppeEees suffer no prejudice by the ruling of this Court. Nonetheless, we beheve the better practice is to rule on an IFP motion in situations such as this where a plaintiff continues to prosecute his serious and unresolved claims.
+IV. CONCLUSION
+For the reasons stated above, we AFFIRM the ruhng of the District Court that Lyons’s complaint be dismissed.
+. It should be noted that the IFP statute authorizes dismissal before service of process where the allegation of poverty is untrue, or where the case is frivolous or malicious, fails to state a claim on which relief my be granted, or seeks monetary relief from a defendant immune from such relief. 28 U.S.C. § 1915(e)(2). Dismissal prior to service of process on grounds of mootness is not addressed in the statute.
+. Nonetheless, the agreement of the BOP officials might be considered a waiver of service since the officials apparently consented to the Court’s jurisdiction. See e.g. Pardazi v. Cullman Medical Center, 896 F.2d 1313, 1317 (llth Cir.1990) ("a court has no interest in dismissing a case for lack of personal jurisdiction once the parties have consented to the court's jurisdiction”); Allied Semi-Conductors Int'l, Inc. v. Pulsar Components Int'l, Inc., 907 F.Supp. 618 (E.D.N.Y.1995) (objection to failure to serve summons and complaint within 120 days of filing complaint was waived when defendant participated in pretrial proceedings without objecting to defect in process). However, no firm conclusions may be drawn on this count because nothing in the record indicates which BOP officials participated in the teleconference.

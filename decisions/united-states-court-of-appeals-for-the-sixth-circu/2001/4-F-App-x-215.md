@@ -1,0 +1,32 @@
+---
+court: "United States Court of Appeals for the Sixth Circuit"
+docket: "99-4459"
+decided: "2001-01-26"
+citations: ["4 F. App'x 215"]
+judges: ["Before MARTIN, Chief Judge; SUHRHEINRICH, Circuit Judge; and OLIVER, District Judge."]
+parties: ["Leroy EDWARDS, Petitioner-Appellant, v. Lawrence MACK, Warden, Respondent-Appellee."]
+source_url: "https://static.case.law/f-appx/4/cases/0215-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 160666
+cites_cases: ["178 F.3d 434", "28 U.S.C. § 2254", "466 U.S. 668", "529 U.S. 362", "894 F.2d 792", "99 F.3d 1302"]
+---
+
+# Edwards v. Mack
+
+## Head matter
+
+Leroy EDWARDS, Petitioner-Appellant, v. Lawrence MACK, Warden, Respondent-Appellee.
+No. 99-4459.
+United States Court of Appeals, Sixth Circuit.
+Jan. 26, 2001.
+Before MARTIN, Chief Judge; SUHRHEINRICH, Circuit Judge; and OLIVER, District Judge.
+The Honorable Solomon Oliver, Jr., United States District Judge for the Northern District of Ohio, sitting by designation.
+
+## Majority
+
+Leroy Edwards appeals a district court order dismissing his petition for a writ of habeas corpus filed pursuant to 28 U.S.C. § 2254. The case has been referred to a panel of the court pursuant to Rule 34(j)(l), Rules of the Sixth Circuit. Upon examination, this panel unanimously agrees that oral argument is not needed. Fed. R.App. P. 34(a).
+In 1985, an Ohio jury convicted Edwards of murder and the trial court sentenced him to fifteen years to life imprisonment. In 1998, Edwards filed his § 2254 petition, alleging that his trial counsel rendered ineffective assistance by waiving jury instructions on lesser included offenses without his permission and by not adequately explaining the effect of such waiver. The district court concluded that his claims were without merit and dismissed the petition. The court did grant Edwards a certificate of appealability for his claims. Edwards has filed a timely appeal.
+Upon review, we conclude that the district court properly dismissed Edwards’s habeas petition. This court renders de novo review of a district court’s dismissal of a § 2254 petition, but reviews the court’s factual findings for clear error. Carson v. Burke, 178 F.3d 434, 436 (6th Cir.1999). The district court shall not grant a habeas petition with respect to any claim that was adjudicated on the merits in the state courts unless the adjudication resulted in a decision that: 1) was contrary to, or involved an unreasonable application of, clearly established federal law; or 2) was based on an unreasonable determination of the facts in light of the evidence presented to the state courts. 28 U.S.C. § 2254(d). Under the “contrary to” clause, a federal habeas court may grant the writ if the state court arrives at a conclusion opposite to that reached by the Supreme Court on a question of law or if the state court decides a case differently than the Supreme Court has on a set of materially indistinguishable facts. Williams v. Taylor, 529 U.S. 362, 120 S.Ct. 1495, 1523, 146 L.Ed.2d 389 (2000). Under the “unreasonable application” clause, a federal habeas court may grant the writ if the state court identifies the correct governing legal principle from the Supreme Court’s decisions but unreasonably applies that principle to the facts of the petitioner’s case. Id. An unreasonable application of federal law is different from an incorrect application of federal law and a federal habeas court may not issue the writ simply because that court concludes that the state court erroneously or incorrectly applied clearly established federal law. Id. at 1522.
+The district court properly concluded that Edwards’s ineffective assistance of counsel claim was without merit. To establish ineffective assistance of counsel, the petitioner must show that counsel’s performance was deficient and that the deficient performance so prejudiced the defense as to render the trial unfair and the result unreliable. Strickland v. Washington, 466 U.S. 668, 687, 104 S.Ct. 2052, 80 L.Ed.2d 674 (1984). The reviewing court’s scrutiny of counsel’s performance is highly deferential, and counsel is strongly presumed to have rendered adequate assistance and made all significant decisions in the exercise of reasonable professional judgment. McQueen v. Scroggy, 99 F.3d 1302, 1311 (6th Cir.1996). Trial counsel’s tactical decisions are particularly difficult to attack, and a defendant’s challenge to such decisions must overcome a presumption that the challenged action might be considered sound trial strategy. Id. To satisfy the prejudice prong of the Strickland test, the petitioner must show that a reasonable probability exists that, but for counsel’s unprofessional errors, the result of the proceeding would have been different. Id. The habeas court must focus on whether counsel’s errors undermined the reliability of and confidence in the result. Id.
+Edwards has not demonstrated that his trial counsel’s performance constituted ineffective assistance. At trial, Edwards’s counsel stated on the record that he had discussed jury instructions for lesser included offenses with Edwards and that, against counsel’s advice, Edwards did not want the jury instructed on lesser included offenses. Instead, Edwards hoped to obtain an acquittal by having the jury instructed on the murder charge only. Edwards now avers that this trial strategy was developed and pursued by his counsel without his permission and that counsel never explained the significance of the strategy. He also avers that counsel lied to the trial court when he stated that it was Edwards’s desire to waive the instructions for lesser included offenses. When faced with these contradictory versions of events, the district court credited counsel’s statements before the trial court, and Edwards has not shown that the district court’s factual findings are clearly erroneous. Carson, 178 F.3d at 436. The Ohio Court of Appeals also determined that, if counsel did pursue the strategy without Edwards’s permission, it constituted a proper exercise of counsel’s judgment under the circumstances. Since a non-capital criminal defendant does not have a constitutional right to have the jury instructed on lesser included offenses, Bagby v. Sowders, 894 F.2d 792, 797 (6th Cir.1990) (en banc), Edwards has not shown that the state court’s determination is an unreasonable application of constitutional law to his case. Williams, 120 S.Ct. at 1523.
+Accordingly, this court affirms the district court’s judgment. Rule 34(j)(2)(C), Rules of the Sixth Circuit.

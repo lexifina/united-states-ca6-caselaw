@@ -1,0 +1,37 @@
+---
+court: "United States Court of Appeals for the Sixth Circuit"
+docket: "11-5674"
+decided: "2012-07-09"
+citations: ["489 F. App'x 8"]
+judges: ["BEFORE: SUTTON and GRIFFIN, Circuit Judges; DOWD, District Judge."]
+parties: ["UNITED STATES of America, Plaintiff-Appellee, v. Victor Manuel MARTINEZ-ARRELLANO, Defendant-Appellant."]
+source_url: "https://static.case.law/f-appx/489/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3981847
+cites_cases: ["1 Fed.Appx. 283", "18 U.S.C. § 2", "21 U.S.C. § 846", "21 U.S.C. §§ 841", "220 Fed.Appx. 389", "443 U.S. 307", "470 F.3d 603", "578 F.3d 320", "620 F.3d 630", "634 F.3d 874"]
+---
+
+# United States v. Martinez-Arrellano
+
+## Head matter
+
+UNITED STATES of America, Plaintiff-Appellee, v. Victor Manuel MARTINEZ-ARRELLANO, Defendant-Appellant.
+No. 11-5674.
+United States Court of Appeals, Sixth Circuit.
+July 9, 2012.
+BEFORE: SUTTON and GRIFFIN, Circuit Judges; DOWD, District Judge.
+The Honorable David D. Dowd, Jr., Senior United States District Judge for the Northern District of Ohio, sitting by designation.
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+Victor Manuel Martinez-Arrellano appeals the sufficiency of the evidence supporting his marijuana conspiracy conviction. We AFFIRM.
+On April 6, 2010, Martinez-Arrellano and four other individuals were arrested following the controlled delivery of a truckload of marijuana to a car wash in Chattanooga, Tennessee. A federal grand jury subsequently charged Martinez-Ar-rellano and his four co-defendants with: (1) conspiring to distribute and possess with intent to distribute one hundred kilograms or more of marijuana in violation of 21 U.S.C. §§ 841(a)(1) and 846 and (2) aiding and abetting each other in attempting to possess with intent to distribute one hundred kilograms or more of marijuana in violation of 18 U.S.C. § 2 and 21 U.S.C. §§ 841(a)(1) and 846. Only Martinez-Ar-rellano proceeded to trial, where three of his co-defendants testified against him. At the conclusion of the trial, the jury convicted Martinez-Arrellano of conspiracy but acquitted him of aiding and abetting. The district court sentenced Martinez-Arrella-no to sixty-three months of imprisonment.
+In this timely appeal, Martinez-Arrella-no challenges the sufficiency of the evidence to support his conspiracy conviction. “To determine if a conviction is supported by sufficient evidence, we consider whether, viewing the evidence in the light most favorable to the prosecution, any rational trier of fact could have found the essential elements of the crime beyond a reasonable doubt.” United States v. Clark, 634 F.3d 874, 876 (6th Cir.2011); see also Jackson v. Virginia, 443 U.S. 307, 319, 99 S.Ct. 2781, 61 L.Ed.2d 560 (1979). “In assessing the sufficiency of the evidence, we do not weigh the evidence, assess the credibility of the witnesses, or substitute our judgment for that of the jury.” United States v. Paige, 470 F.3d 603, 608 (6th Cir.2006) (internal quotation marks omitted).
+To obtain a conviction for a drug conspiracy under 21 U.S.C. § 846, “the government must prove: (1) an agreement to violate drug laws; (2) knowledge of and intent to join the conspiracy; and (3) participation in the conspiracy.” United States v. Warman, 578 F.3d 320, 332 (6th Cir.2009). According to Martinez-Arrella-no, there was insufficient evidence that he knew of and intended to join the conspiracy to distribute and possess with intent to distribute marijuana or that he participated in the conspiracy. We disagree.
+At trial, Marco Uribe, who worked with law enforcement as a confidential source, testified that he became aware of a shipment of marijuana from Mexico to Tennessee and that he ultimately delivered approximately 850 pounds of marijuana in a U-Haul truck himself, accompanied by a law enforcement agent. Uribe communicated by cell phone with someone later identified as co-defendant Armando Isaola about where to make the delivery. Co-defendant Toriq Johnson testified that Martinez-Arrellano called him about finding a location for the marijuana delivery. Johnson suggested the car wash. Isaola testified that Martinez-Arrellano gave him the address of the car wash, which he then relayed to Uribe.
+Johnson also testified that Martinez-Ar-rellano brought him a pay-as-you-go cell phone the day before the delivery and called him the morning of the delivery to notify him that the truck was arriving. Co-defendant Rafael Mora-Perez testified that both Isaola and Martinez-Arrellano called him the morning of the delivery to meet them at the car wash. The government introduced evidence of the phone calls between Martinez-Arrellano and his co-defendants.
+Uribe testified that, when he arrived at the car wash, the defendants did not have the $90,000 that they were supposed to pay him and that they began to make calls to come up with more money. In the meantime, the defendants directed Uribe to move the U-Haul truck to the back of the car wash. The co-defendants testified that Martinez-Arrellano, who was the only one who spoke both English and Spanish, was involved in discussing how to pay for the marijuana and where to unload and store it. According to Johnson, Martinez-Arrel-lano said that there was “over a half million dollars’ worth of marijuana” in the truck and asked Johnson to come up with $15,000 to help pay for it.
+In support of his challenge to the sufficiency of the evidence, Martinez-Arrellano contends that the government presented no proof of his knowledge that the U-Haul truck contained marijuana, let alone the amount of marijuana. Martinez-Arrellano ignores Johnson’s testimony that he knew from Martinez-Arrellano that marijuana was to be delivered to the car wash and that Martinez-Arrellano told him that the delivery truck contained “over a half million dollars’ worth of marijuana.” A special agent with the Drug Enforcement Administration testified that “about a half a million dollars” of marijuana amounts to approximately three hundred kilograms. Martinez-Arrellano also overlooks the testimony regarding his involvement in discussions about how to pay for the marijuana and where to unload and store it. The trial testimony established Martinez-Ar-rellano’s participation not only at the scene of the delivery, but also in preparing for the delivery, such as coordinating the delivery location, providing Johnson with a pay-as-you-go cell phone, and notifying Johnson and Mora-Perez when the truck was to arrive.
+The drug conspiracy cases upon which Martinez-Arrellano relies are inapposite. In those cases, the government failed to present sufficient evidence of the defendant’s knowledge about the drugs that were the object of the conspiracy as opposed to knowledge about some other illegal scheme or mere association with a drug dealer. See United States v. Sliwo, 620 F.3d 630, 633-37 (6th Cir.2010); United States v. Morrison, 220 Fed.Appx. 389, 393-98 (6th Cir.2007); United States v. Coppin, 1 Fed.Appx. 283, 288-92 (6th Cir.2001). As noted above, the government in the instant case presented proof of Martinez-Arrellano’s knowledge that the U-Haul truck contained over one hundred kilograms of marijuana as well as his participation in the conspiracy.
+Viewed in the light most favorable to the prosecution, the evidence was sufficient to support Martinez-Arrellano’s conviction for conspiring to distribute and possess with intent to distribute one hundred kilograms or more of marijuana. Accordingly, we AFFIRM.
